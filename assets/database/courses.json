@@ -1,0 +1,127 @@
+[
+	
+	{
+		"courseNumber":"EE 565",
+		"courseTitle": "Computer Communication Networks I",
+		"offeredQuarter": "Winter 2007",
+		"description": "Introduction to computer networks, layered model, and network protocols. Error Detection, framing, reliable transmission protocols. TCP. Routing Algorithms. Queuing theory including queuing models and networks and network capacity assignment.",
+		"link":"https://class.ee.washington.edu/565/2007wtr"
+	},
+	
+	{
+		"courseNumber":"EE 418",
+		"courseTitle": "Network Security and Cryptography",
+		"offeredQuarter": "Autumn 2006",
+		"description": "Fundamental principles of cryptography and its application to network and communication security. An introduction to the fundamental tools in cryptography and the protocols that enable its application to network and communication security.",
+		"link":""
+	},
+	
+	{
+		"courseNumber":"EE 565",
+		"courseTitle": "Computer Communication Networks I",
+		"offeredQuarter": "Winter 2006",
+		"description": "Introduction to computer networks, layered model, and network protocols. Error Detection, framing, reliable transmission protocols. TCP. Routing Algorithms. Queuing theory including queuing models and networks and network capacity assignment.",
+		"link":""
+	},
+	
+	{
+		"courseNumber":"EE 418",
+		"courseTitle": "Network Security and Cryptography",
+		"offeredQuarter": "Autumn 2005",
+		"description": "Fundamental principles of cryptography and its application to network and communication security. An introduction to the fundamental tools in cryptography and the protocols that enable its application to network and communication security.",
+		"link":""
+	},
+	
+	{
+		"courseNumber":"EE 595",
+		"courseTitle": "Wireless Sensor Networks",
+		"offeredQuarter": "Spring 2005",
+		"description": "In this graduate level course is intended for students planning to pursue research in the emerging area of information processing in sensor networks. The course covers various topics of interest in sensor networks. The students review the extensive literature to understand the fundamental issues in designing and analyzing sensor networks. In order to gain in depth knowledge in a specific topic of interest, the students investigate the topic in a course project.",
+		"link":""
+	},
+	
+	{
+		"courseNumber":"EE 565",
+		"courseTitle": "Computer Communication Networks I",
+		"offeredQuarter": "Winter 2005",
+		"description": "Introduction to computer networks, layered model, and network protocols. Error Detection, framing, reliable transmission protocols. TCP. Routing Algorithms. Queuing theory including queuing models and networks and network capacity assignment.",
+		"link":"https://www2.ee.washington.edu/research/nsl/class/565/2004wtr/"
+	},
+	
+	{
+		"courseNumber":"EE 418",
+		"courseTitle": "Network Security and Cryptography",
+		"offeredQuarter": "Fall 2003",
+		"description": "Fundamental principles of cryptography and its application to network and communication security. An introduction to the fundamental tools in cryptography and the protocols that enable its application to network and communication security.",
+		"link":"https://www2.ee.washington.edu/research/nsl/class/418/2003aut/"
+	},
+	
+	{
+		"courseNumber":"EE 595",
+		"courseTitle": "Information Theory",
+		"offeredQuarter": "Spring 2003",
+		"description": "This course will serve as the first among the sequence of two courses in the area of Information Theory.
+
+The first part of the first course will introduce the ideal of uncertainty, which is a useful measure in studying the data compression and deriving the results related to compression. Compressing data naturally leads to the need for coding strategies that can represent the data in the most efficient way. This problem is studied in the context of optimal coding and the notion of optimality is introduced. The folk wisdom of twenty questions is brought back in this context and related to the Shannon-Fano-Elias coding. We will also deal with the correlated sources in which case the Slepian-Wolf Lemma provides the main result for compression.
+
+The second part of the first course will deal with the results that relate to the communication channel and the rate of transmission in a given noisy channels. In particular, we shall derive the result dealing with the capacity of the channel followed by the rate distortion theory followed by the network information theory. Gaussian channel will be of special interest to us. Course wraps up with the joint source-channel results.",
+		"link":"https://www2.ee.washington.edu/research/nsl/class/595/2003spr/"
+	},
+	
+	{
+		"courseNumber":"EE 565",
+		"courseTitle": "Computer Communication Networks I",
+		"offeredQuarter": "Winter 2003",
+		"description": "Introduction to computer networks, layered model, and network protocols. Error Detection, framing, reliable transmission protocols. TCP. Routing Algorithms. Queuing theory including queuing models and networks and network capacity assignment.",
+		"link":"https://www2.ee.washington.edu/research/nsl/class/565/2003wtr/"
+	},
+	
+	{
+		"courseNumber":"EE 341",
+		"courseTitle": "Discrete Time Linear Systems",
+		"offeredQuarter": "Autumn 2002",
+		"description": " Undergraduate course covering discrete time signals and systems, impulse response, convolution. Z-transforms, discrete-time Fourier analysis. Computer laboratory.",
+		"link":""
+	},
+	
+	{
+		"courseNumber":"EE 566",
+		"courseTitle": "Computer Communication Networks II",
+		"offeredQuarter": "Spring 2002",
+		"description": "Local area, metropolitan area, satellite, and packet radio networks; routing algorithms for wide area networks; optimal design of packet-switched networks; congestion and flow control; fast packet switching; gigabit networks.",
+		"link":"https://www2.ee.washington.edu/research/nsl/class/566/2001spr/"
+	},
+	
+	{
+		"courseNumber":"EE 565",
+		"courseTitle": "Computer Communication Networks I",
+		"offeredQuarter": "Winter 2002",
+		"description": " Introduction to computer networks, layered model, and network protocols. Error Detection, framing, reliable transmission protocols. TCP. Routing Algorithms. Queuing theory including queuing models and networks and network capacity assignment.",
+		"link":"https://www2.ee.washington.edu/research/nsl/class/565/2002wtr/"
+	},
+	
+	{
+		"courseNumber":"EE 566",
+		"courseTitle": "Computer Communication Networks II",
+		"offeredQuarter": "Spring 2001",
+		"description": "Local area, metropolitan area, satellite, and packet radio networks; routing algorithms for wide area networks; optimal design of packet-switched networks; congestion and flow control; fast packet switching; gigabit networks.",
+		"link":"https://www2.ee.washington.edu/research/nsl/class/566/2001spr/"
+	},
+	
+	{
+		"courseNumber":"EE 595",
+		"courseTitle": "Security in wireless communications",
+		"offeredQuarter": "Spring 2001",
+		"description": "Literature review on wireless network security algorithms, different cryptographic schemes for group communication and proposed secure wireless communication schemes.",
+		"link":""
+	},
+	
+	{
+		"courseNumber":"EE 565",
+		"courseTitle": "Computer Communication Networks I",
+		"offeredQuarter": "Winter 2001",
+		"description": "Introduction to computer networks, layered model, and network protocols. Error Detection, framing, reliable transmission protocols. TCP. Routing Algorithms. Queuing theory including queuing models and networks and network capacity assignment.",
+		"link":"https://www2.ee.washington.edu/research/nsl/class/565/2002wtr/"
+	}
+	
+]
