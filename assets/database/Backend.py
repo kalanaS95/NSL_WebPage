@@ -38,6 +38,14 @@ class news(db.Model):
     imgDes2 = db.Column(db.String(100))
     links = db.Column(db.String(10000))
 
+class tools(db.Model):
+    toolId = db.Column(db.Integer, primary_key=True)
+    toolTitle = db.Column(db.String(100))
+    toolDescription = db.Column(db.String(5000))
+    toolImage = db.Column(db.String(5000000))
+
+
+
 base_url = '/api/'
 
 #to get all the courses in the database
@@ -64,6 +72,7 @@ def getLinks():
     return jsonify({"links":result}),200
 
 
+
 #to get all the news in the database
 @app.route(base_url + 'news', methods=['GET'])
 def getNews():
@@ -74,6 +83,19 @@ def getNews():
         result.append(row_to_obj_news(currNews))
 
     return jsonify({"news":result}),200
+
+#to get all the tools in the database
+@app.route(base_url + 'tools', methods=['GET'])
+def getTools():
+    allTools =tools.query.all()
+
+    result = []
+    for currTool in allTools:
+        result.append(row_to_obj_tools(currTool))
+
+    return jsonify({"tools":result}),200
+
+
 
 # data records to jason data converter fot course records
 def row_to_obj_courses(row):
@@ -99,6 +121,7 @@ def row_to_obj_links(row):
     return row
 
 
+
 # data records to jason data converter fot news records
 def row_to_obj_news(row):
     row = {
@@ -111,6 +134,19 @@ def row_to_obj_news(row):
         "image2": row.image2,
         "imgDes2": row.imgDes2,
         "links": row.links,
+    }
+
+    return row
+
+
+
+# data records to jason data converter fot links records
+def row_to_obj_tools(row):
+    row = {
+        "toolId": row.toolId,
+        "toolTitle": row.toolTitle,
+        "toolDescription": row.toolDescription,
+        "toolImage": row.toolImage,
     }
 
     return row
