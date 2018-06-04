@@ -1,0 +1,185 @@
+.nav_bar_en
+{
+	padding-bottom : 220px;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 75%;
+	margin-bottom: 50px;
+
+
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.facultySection
+{
+	display: inline-block;
+	display:block;
+}
+
+.detailcontainer {
+    padding: 2px 16px;
+}
+
+#cards_
+{
+	margin-left: 30px;
+}
+
+.sitelinks
+{
+	font-size: 18px;
+	color:#AB987A;
+
+}
+
+#webpageLink, #LinkedInLink
+{
+	font-family: 'latolight';
+    font-weight: 300;
+	color:#AB987A;
+}
+
+.Title
+{
+	font-family: 'Exo', sans-serif;
+	font-size:50px;
+	
+}
+
+.titleSeparator {
+    height: 2px;
+    width: 200px;
+    margin-top:5px;
+	margin-bottom: 30px;
+    background: #AB987A;
+}
+
+#name
+{
+	margin-top:10px;
+	margin-bottom:5px;
+	font-size:30px;
+	
+}
+
+#description
+{
+	font-size:18px;
+	margin-bottom:10px;
+	height:200px;
+}
+
+#icons_
+{
+	margin-right:10px;
+	margin-bottom: 5px;
+}
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+/* Create three equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+}
+
+
+/* Clear floats after the columns */
+.facultyrow:after {
+    content: "";
+    display: table;
+    clear: both;
+
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 1905px) {
+    #name
+	{
+		font-size:25px;
+	}
+}
+
+@media screen and (max-width: 1626px) {
+    #name
+	{
+		font-size:22px;
+	}
+	
+	#description
+	{
+		font-size:18px;
+	}
+}
+
+@media screen and (max-width: 1459px) {
+    #name
+	{
+		font-size:21px;
+	}
+	
+	#description
+	{
+		font-size:16px;
+	}
+}
+
+@media screen and (max-width: 1402px) {
+    #name
+	{
+		font-size:20px;
+	}
+	
+	#description
+	{
+		font-size:16px;
+	}
+}
+
+@media screen and (max-width: 1347px) {
+    #name
+	{
+		font-size:19px;
+	}
+	
+	#description
+	{
+		font-size:16px;
+	}
+}
+
+@media screen and (max-width: 1291px) {
+    #name
+	{
+		font-size:18px;
+	}
+	
+	#description
+	{
+		font-size:16px;
+	}
+}
+
+@media screen and (max-width: 1245px) {
+    .column {
+        width: 50%;
+    }
+}
+
+@media screen and (max-width: 770px) {
+    .column {
+        width: 100%;
+    }
+}

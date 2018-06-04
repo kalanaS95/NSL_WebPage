@@ -44,6 +44,15 @@ class tools(db.Model):
     toolDescription = db.Column(db.String(5000))
     toolImage = db.Column(db.String(5000000))
 
+class people(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(100))
+    description = db.Column(db.String(1000))
+    type = db.Column(db.String(100))
+    webpage = db.Column(db.String(1000))
+    email = db.Column(db.String(1000))
+    linkedin = db.Column(db.String(1000))
+    image = db.Column(db.String(2000000)) # inorder to save some disk space in the server we have to limit this is to 2mb
 
 
 base_url = '/api/'
@@ -94,6 +103,40 @@ def getTools():
         result.append(row_to_obj_tools(currTool))
 
     return jsonify({"tools":result}),200
+
+#to get all the faultymemebers in the database
+@app.route(base_url + 'facultyMembers', methods=['GET'])
+def facultyMembers():
+    allFacultyMembers =people.query.filter_by(type="faculty").all()
+
+    result = []
+    for currFacultyMembers in allFacultyMembers:
+        result.append(row_to_obj_people(currFacultyMembers))
+
+    return jsonify({"people":result}),200
+
+
+#to get all the current members in the database
+@app.route(base_url + 'currentMembers', methods=['GET'])
+def currentMembers():
+    allFacultyMembers =people.query.filter_by(type="members").all()
+
+    result = []
+    for currFacultyMembers in allFacultyMembers:
+        result.append(row_to_obj_people(currFacultyMembers))
+
+    return jsonify({"people":result}),200
+
+#to get all the current alums in the database
+@app.route(base_url + 'alums', methods=['GET'])
+def Alums():
+    allFacultyMembers =people.query.filter_by(type="alum").all()
+
+    result = []
+    for currFacultyMembers in allFacultyMembers:
+        result.append(row_to_obj_people(currFacultyMembers))
+
+    return jsonify({"people":result}),200
 
 
 
@@ -151,6 +194,22 @@ def row_to_obj_tools(row):
 
     return row
 
+
+
+# data records to jason data converter fot people records
+def row_to_obj_people(row):
+    row = {
+        "id": row.id,
+        "name": row.name,
+        "description": row.description,
+        "type": row.type,
+        "webpage": row.webpage,
+        "email": row.email,
+        "linkedin": row.linkedin,
+        "image": row.image,
+    }
+
+    return row
 
 def main():
     db.create_all()  # creates the tables you've provided
