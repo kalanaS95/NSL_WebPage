@@ -23,7 +23,9 @@
 		<!--courses page css-->
         <link rel="stylesheet" href="assets/css/courses.css" />
 		<!-- dataTables dependencies -->
-		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css">
+		<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs/dt-1.10.16/datatables.min.css"/>
+ 
+		<!-- <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css"> -->
 
   </head>
   
@@ -86,50 +88,54 @@
 	<!--Home page style-->
 	
 
-	 <div id="mainContainer"> 
-		<!--- Courses Table -->
-		<div class="courseTableDiv" id="courseTableDiv_">
-			<table id="courseTable_" class="courseTable">
-				<thead>
-					<tr>
-						<th>Course Number</th>
-						<th>Course Title</th> 
-						<th>Quarter Offered</th>
-						<th>Description</th>
-						<th>Link</th>
-					</tr>
-				</thead>
-				<tbody>
-					<tr>
-						<td>Row 1 Data 1</td>
-						<td>Row 1 Data 2</td>
-						<td>Row 1 Data 1</td>
-						<td>Row 1 Data 2</td>
-						<td>Row 1 Data 2</td>
-					</tr>
-					<tr>
-						<td>Row 2 Data 1</td>
-						<td>Row 2 Data 2</td>
-						<td>Row 1 Data 1</td>
-						<td>Row 1 Data 2</td>
-						<td>Row 1 Data 2</td>
-					</tr>
-				</tbody>
-			</table>
-		</div> 
-		<!--- End of Courses Table -->
+	 <div id="mainContainer" class="container"> 
+		<div class="row">
+			<div class="col-xs-12">
+				<!--- Courses Table -->
+				<div class="panel courseTableDiv">
+						<table id="courseTable_" class="table table-bordered">
+							<thead>
+								<tr>
+									<th>Course Number</th>
+									<th>Course Title</th> 
+									<th>Quarter Offered</th>
+									<th>Description</th>
+									<th>Link</th>
+								</tr>
+							</thead>
+							<tbody>
+								<tr>
+									<td>Row 1 Data 1</td>
+									<td>Row 1 Data 2</td>
+									<td>Row 1 Data 1</td>
+									<td>Row 1 Data 2</td>
+									<td>Row 1 Data 2</td>
+								</tr>
+								<tr>
+									<td>Row 2 Data 1</td>
+									<td>Row 2 Data 2</td>
+									<td>Row 1 Data 1</td>
+									<td>Row 1 Data 2</td>
+									<td>Row 1 Data 2</td>
+								</tr>
+							</tbody>
+						</table>
+				</div> 
+				<!--- End of Courses Table -->
+				<!-- course descriptions -->
 
-		<!-- course descriptions -->
-		
-			 <div class="courseDescription" id="courseDescription_">
-				<div class="title" id="title_">
-				</div>
-				<div class="description" id="description_">
-				</div>
-				<div id="webpage">
-					<!-- <a id="webpage" href=""><i class="fa fa-globe"></i> Visit web page</a> -->
-				</div>
-			</div> 
+				<div class="panel" id="courseDescription_">
+					<div class="title" id="title_">
+					</div>
+					<div class="description" id="description_">
+					</div>
+					<div id="webpage">
+						<!-- <a id="webpage" href=""><i class="fa fa-globe"></i> Visit web page</a> -->
+					</div>
+				</div> 
+			</div>
+		</div>
+
 			
 		
 	</div>
@@ -148,8 +154,9 @@
         <script src="assets/js/plugins.js"></script>
         <script src="assets/js/main.js"></script>
 		
+		<script type="text/javascript" src="https://cdn.datatables.net/v/bs/dt-1.10.16/datatables.min.js"></script>
 		
-		<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script>
+		<!-- <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js"></script> -->
 		<!-- courses javascript files -->
 		<script src="assets/js/configurations.js"></script>
 		<script src="assets/js/courses.js"></script>
