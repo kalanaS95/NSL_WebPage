@@ -54,6 +54,14 @@ class people(db.Model):
     linkedin = db.Column(db.String(1000))
     image = db.Column(db.String(2000000)) # inorder to save some disk space in the server we have to limit this is to 2mb
 
+class research(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    title = db.Column(db.String(100))
+    description = db.Column(db.String(5000))
+    type = db.Column(db.String(100))
+    link = db.Column(db.String(1000))
+
+
 
 base_url = '/api/'
 
@@ -139,6 +147,17 @@ def Alums():
     return jsonify({"people":result}),200
 
 
+#to get all the news in the research details
+@app.route(base_url + 'research', methods=['GET'])
+def getResearch():
+    allResearch =research.query.all()
+
+    result = []
+    for currResearch in allResearch:
+        result.append(row_to_obj_research(currResearch))
+
+    return jsonify({"research":result}),200
+
 
 # data records to jason data converter fot course records
 def row_to_obj_courses(row):
@@ -207,6 +226,18 @@ def row_to_obj_people(row):
         "email": row.email,
         "linkedin": row.linkedin,
         "image": row.image,
+    }
+
+    return row
+
+# data records to jason data converter fot research records
+def row_to_obj_research(row):
+    row = {
+        "id": row.id,
+        "title": row.title,
+        "description": row.description,
+        "type": row.type,
+        "link": row.link,
     }
 
     return row

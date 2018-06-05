@@ -1,0 +1,134 @@
+.nav_bar_en
+{
+	padding-bottom : 170px;
+}
+
+
+.researchTitleTile
+{
+
+	background-image:url("../images/research_Bk.jpg");
+	min-height:400px;
+
+}
+
+#researchTitle_
+{
+	padding-top:20px;
+	color:#bdc3c7;
+}
+
+#researchTitle_odd
+{
+	padding-top:20px;
+	color:#2c3e50;
+}
+
+#researchDescription_
+{
+	margin-top:20px;
+	margin-left:15%;
+	margin-right:15%;
+	color:#bdc3c7;
+	padding-bottom:30px;
+}
+
+#arrowDown_
+{
+	width:100%;
+    margin-top: -35px;
+	position: absolute;
+	z-index:1;
+	text-align:center;
+}
+
+.ResearchTitleSection
+{
+	height:400px;
+	display: table; 
+	width:100%;
+	text-align: center;
+	vertical-align: center;
+}
+
+
+#Titles_
+{
+	display: table-cell; vertical-align: middle;
+}
+
+.Container
+{
+	width:100%;
+}
+
+.Titles
+{
+
+	text-align:center;
+	font-size:50px;
+	font-weight: bold;
+	margin-bottom:10px;
+	margin-left:15%;
+	margin-right:15%;
+}
+
+.description
+{
+	font-size:25px;
+}
+
+#postDescription_
+{
+	padding-bottom:50px;
+	margin-top:20px;
+	margin-left:15%;
+	margin-right:15%;
+	color:#bdc3c7;
+}
+
+#postDescription_odd
+{
+	padding-bottom:30px;
+	margin-top:20px;
+	margin-left:15%;
+	margin-right:15%;
+	color:#2c3e50;
+}
+
+.post
+{
+	min-height:500px;
+}
+
+#post_1
+{
+	background-image:url("../images/researchblue_Bk.jpg");
+}
+
+#post_odd
+{
+	background-image:url("../images/oddPolygons_Bk.jpg");
+}
+
+#post_2
+{
+	background-image:url("../images/researchgrn_Bk.jpg");
+}
+
+#post_3
+{
+	background-image:url("../images/researchprpl_Bk.jpg");
+}
+
+#post_4
+{
+	background-image:url("../images/researchred_Bk.jpg");
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 400px) {
+    .Titles {
+        width: 100%;
+    }
+}
