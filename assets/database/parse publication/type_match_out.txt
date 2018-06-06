@@ -1,0 +1,12 @@
+R. Poovendran, "Towards Efficient and Optimal Design of Anonymous Communication  Systems," in the 51st Annual Allerton Conference on Communication, Control, and  Computing, October 2013.
+
+0.59846547314578 48
+K. Sampigethaya and R. Poovendran, Method for protecting  location privacy of air traffic communications, US Patent No: 8,248,294, August  21, 2012.
+
+0.48632218844984804 56
+J. Song, W. Trappe, R. Poovendran, and K. J. R. Liu, A Dynamic Key Distribution Scheme using Data Embedding for Secure Multimedia Multicast, September 2000, University of Maryland (Pending).
+
+0.6963350785340314 214
+R. Poovendran, M. S. Corson, and J. S. Baras, Method and Apparatus for Developing Dynamic Group Elgamal Public Keys among Mutually Suspicious Parties, University of Maryland, (Pending).
+
+0.5108695652173914 221
