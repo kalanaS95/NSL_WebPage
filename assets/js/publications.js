@@ -196,21 +196,35 @@ function getPublications()
 		for(var x=0;x<data['publications'].length;x++)
 		{
 			
-			//adding all the unique years
-			if(years.indexOf(data['publications'][x]['year']) == -1)
-				years.push(data['publications'][x]['year']);
+			if(data['publications'][x]['year'] !=null)
+			{
+				//adding all the unique years
+				if(years.indexOf(data['publications'][x]['year']) == -1)
+					years.push(data['publications'][x]['year']);
+			}
 			
-			//adding all the unique types
-			if(types.indexOf(data['publications'][x]['type']) == -1)
-				types.push(data['publications'][x]['type']);
+			if(data['publications'][x]['type'] !=null)
+			{
+				//adding all the unique types
+				if(types.indexOf(data['publications'][x]['type']) == -1)
+					types.push(data['publications'][x]['type']);
+			}
 			
-			//adding all the unique main areas
-			if(majorAreas.indexOf(data['publications'][x]['area'].split(":")[0]) == -1)
+			
+			//adding some safety features just in case fields are empty
+			if(data['publications'][x]['area'] !=null)
+			{
+				//adding all the unique main areas
+				if(majorAreas.indexOf(data['publications'][x]['area'].split(":")[0]) == -1)
 				majorAreas.push((data['publications'][x]['area']).split(":")[0]);
 
-			//add all the unique minor areas
-			if(minorAreas.indexOf(data['publications'][x]['area']) == -1)
+				//add all the unique minor areas
+				if(minorAreas.indexOf(data['publications'][x]['area']) == -1)
 				minorAreas.push(data['publications'][x]['area']);
+			
+			}
+
+			
 		}
 		
 		//lets sort out the years in descending order
