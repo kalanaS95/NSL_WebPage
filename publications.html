@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
 	<meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>Sponsors</title>
+        <title>Publications</title>
 		<meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 		
@@ -20,9 +20,9 @@
         <link rel="stylesheet" href="assets/css/style.css">
         <!--Theme Responsive css-->
         <link rel="stylesheet" href="assets/css/responsive.css" />
-		
 		<!--sponsor page css-->
-        <link rel="stylesheet" href="assets/css/sponsors.css" />
+		
+        <link rel="stylesheet" href="assets/css/publications.css" />
 		
   </head>
   
@@ -83,6 +83,55 @@
 	</div>
 	<!--Home page style-->
 
+	<!-- pulication area -->
+	<div class="mainContainer">
+	
+	<div class="selectors">
+		<div class="wrapperRow">
+		  <div class="column">
+			<div id="dropDown">
+			<div class="dropDownText" id="firstText" >Sort by: </div>
+				<select class="dropDownList" id="first" onchange="firstOnchange()">
+				<option value="year">Select a sorting option</option>
+				<option value="year">Year</option>
+				<option value="area">Area</option>
+				<option value="type">Type</option>
+				</select>
+			</div>	
+		  </div>
+		  
+		  <div class="column">
+			<div id="dropDown">
+			<div class="dropDownText" id="secondText">Select a sorting method first: </div>
+				<select class="dropDownList" id="second" onchange="secondOnChange()" >
+				<option value="year">Year</option>
+				<option value="area">Area</option>
+				<option value="type">Type</option>
+				</select>
+			</div>	
+		  </div>
+		  
+		  <div class="column" >
+			<div id="dropDown">
+			<div class="dropDownText" id="thirdText">Title: </div>
+				<select class="dropDownList" id="third" onchange="thirdOnChange()" >
+				<option value="year">Year</option>
+				<option value="area">Area</option>
+				<option value="type">Type</option>
+				</select>
+			</div>	
+		  </div>
+		 </div>
+		 
+		 <div class="publicationsArea" id="publicationsArea_">
+		 </div>
+		 
+	</div>
+
+
+	<div class="publicationArea" id="publicationArea_">
+	</div>
+
 
 		<!-- START SCROLL TO TOP  -->
 
@@ -96,7 +145,8 @@
         <script src="assets/js/plugins.js"></script>
         <script src="assets/js/main.js"></script>
 		
-		<!-- JS to handle click events -->
+		<!-- courses javascript files -->
+		<script src="assets/js/configurations.js"></script>
 		<script src="assets/js/publications.js"></script>
 
   

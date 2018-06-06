@@ -1,0 +1,81 @@
+.nav_bar_en
+{
+	padding-bottom : 180px;
+}
+
+html, body
+{
+	height:100%;
+	background-image:url("../images/publications_Bk.jpg");
+	background-size: cover;
+}
+
+.mainContainer
+{
+	background-color:rgba(0, 0, 0, 0.5);
+	margin-left:5%;
+	margin-right:5%;
+	min-height:50%;
+}
+
+
+
+select
+{
+	background: rgba(0,0,0,0.3);
+	color:#ecf0f1;
+	height:40px;
+	width:80%;
+
+}
+
+select option {
+    margin: 40px;
+    background: rgba(0, 0, 0, 0.7);
+    color: #ecf0f1;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.7);
+}
+
+.publicationArea
+{
+	padding-top:5%;
+	margin-left:1%;
+}
+
+.publicationContent
+{
+	padding-top:10px;
+	color:#ecf0f1;
+	font-size:20px;
+}
+
+.selectors
+{
+	font-size:18px;
+}
+
+.dropDownText
+{
+	color:#ecf0f1;
+	padding-bottom:5px;
+}
+
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+}
+
+/* Clear floats after the columns */
+.wrapperRow:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .column {
+        width: 100%;
+    }
+}

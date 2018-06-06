@@ -34,7 +34,13 @@ p
 
 #content_
 {
+
 	margin-bottom: 20px;
+}
+
+#content_ p 
+{
+		line-height:2.5rem !important;
 }
 	
 	

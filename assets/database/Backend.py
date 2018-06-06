@@ -61,6 +61,13 @@ class research(db.Model):
     type = db.Column(db.String(100))
     link = db.Column(db.String(1000))
 
+class publications(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    publication = db.Column(db.String(2000))
+    year = db.Column(db.String(100))
+    area = db.Column(db.String(500))
+    type = db.Column(db.String(100))
+    link = db.Column(db.String(1000))
 
 
 base_url = '/api/'
@@ -158,6 +165,17 @@ def getResearch():
 
     return jsonify({"research":result}),200
 
+#to get all the publications in the publications table
+@app.route(base_url + 'publications', methods=['GET'])
+def getPublications():
+    allPublications =publications.query.all()
+
+    result = []
+    for currPublication in allPublications:
+        result.append(row_to_obj_Publication(currPublication))
+
+    return jsonify({"publications":result}),200
+
 
 # data records to jason data converter fot course records
 def row_to_obj_courses(row):
@@ -241,6 +259,23 @@ def row_to_obj_research(row):
     }
 
     return row
+
+
+
+# data records to jason data converter fot research records
+def row_to_obj_Publication(row):
+    row = {
+        "id": row.id,
+        "publication": row.publication,
+        "year": row.year,
+        "area": row.area,
+        "type": row.type,
+        "link": row.link,
+    }
+
+    return row
+
+
 
 def main():
     db.create_all()  # creates the tables you've provided
