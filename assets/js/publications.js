@@ -101,11 +101,11 @@ function secondOnChange()
 		//now lets add the publications
 		for(var y=0;y<Publicationdata.length;y++)
 		{
-			console.log(selectedValue+"="+Publicationdata[y]['year']);
+			//console.log(selectedValue+"="+Publicationdata[y]['year']);
 			//if equals to user selected one then show
 			if(Publicationdata[y]['year'] == selectedValue)
 			{
-				console.log("year loop");
+				//console.log("year loop");
 				document.getElementById('publicationArea_').innerHTML += "<div class=\"publicationContent\" div=\"publicationContent_\">"+Publicationdata[y]['publication']+"</div>";
 			}
 		}
@@ -114,11 +114,11 @@ function secondOnChange()
 		//now lets add the publications
 		for(var y=0;y<Publicationdata.length;y++)
 		{
-			console.log(selectedValue+"="+Publicationdata[y]['type']);
+			//console.log(selectedValue+"="+Publicationdata[y]['type']);
 			//if equals to user selected one then show
 			if(Publicationdata[y]['type'] == selectedValue)
 			{
-				console.log("year loop");
+				//console.log("year loop");
 				document.getElementById('publicationArea_').innerHTML += "<div class=\"publicationContent\" div=\"publicationContent_\">"+Publicationdata[y]['publication']+"</div>";
 			}
 		}
@@ -140,7 +140,7 @@ function secondOnChange()
 
 			if(majorPart == selectedValue)
 			{
-				console.log("DONE !");
+				//console.log("DONE !");
 				document.getElementById('third').innerHTML += "<option value=\""+minorPart +"\">" +minorPart+ "</option>";
 			}
 			
@@ -161,11 +161,11 @@ function thirdOnChange()
 	//now lets add the publications
 		for(var y=0;y<Publicationdata.length;y++)
 		{
-			console.log(selectedValue+"="+Publicationdata[y]['area']);
+			//console.log(selectedValue+"="+Publicationdata[y]['area']);
 			//if equals to user selected one then show
-			if(Publicationdata[y]['area'].split(":")[1] == selectedValue)
+			if(Publicationdata[y]['area'].split(":")[1].trim() == selectedValue)
 			{
-				console.log("year loop");
+				//console.log("year loop");
 				document.getElementById('publicationArea_').innerHTML += "<div class=\"publicationContent\" div=\"publicationContent_\">"+Publicationdata[y]['publication']+"</div>";
 			}
 		}
@@ -229,7 +229,9 @@ function getPublications()
 		
 		//lets sort out the years in descending order
 		years.sort();
-
+		
+		console.log(majorAreas);
+		console.log(minorAreas);
 		
 	}
 	

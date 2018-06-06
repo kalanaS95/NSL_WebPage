@@ -1,5 +1,35 @@
 var baseURL = 'http://127.0.0.1:5000/api/';
 
+function fullMonth(month)
+{
+	switch(month)
+	{
+	case "Jan": return "January ";
+	case "Feb": return "February ";
+	case "Jan": return "March ";
+	case "Mar": return "April ";
+	case "May": return "May ";
+	case "Jun": return "June ";
+	case "Jul": return "July ";
+	case "Aug": return "August ";
+	case "Sep": return "September ";
+	case "Oct": return "October ";
+	case "Nov": return "November ";
+	case "Dec": return "December ";
+	}
+}
+
+function GMTtoDate(date)
+{
+	var day= date.split(",");
+			
+	var dateArray = day[1].split(" ");
+	return fullMonth(dateArray[2])+dateArray[1]+", "+dateArray[3];
+
+}
+
+  
+  
 // Template POst request Ajax call
 var makePostRequest = function(url, data, onSuccess, onFailure) {
         $.ajax({

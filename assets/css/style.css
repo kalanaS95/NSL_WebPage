@@ -368,6 +368,10 @@ Button
     color:#ab987a;
     border-color: #ab987a;
 }
+.btn_news_color:hover{
+	background-color: #ab987a !important;
+
+}
 
 
 

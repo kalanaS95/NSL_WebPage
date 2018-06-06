@@ -5,6 +5,7 @@ getNews();
 //GET request to get all the news from the database
 function getNews()
 {
+	
 	var onSuccess = function(data)
 	{
 		//lets get column one 
@@ -25,14 +26,13 @@ function getNews()
 
 			var title=data['news'][x]['title'];
 			var description=data['news'][x]['description'];
-			var date=data['news'][x]['date'];
+			var date=GMTtoDate(data['news'][x]['date']);		
 			var image1=data['news'][x]['image1'];
 			var imgDes1=data['news'][x]['imgDes1'];
 			var image2=data['news'][x]['image2'];
 			var imgDes2=data['news'][x]['imgDes2'];
 			var links=data['news'][x]['links'];
-			
-			console.log(data['news']);
+
 
 			//this class tag consists of the animation call using JS
 			var animationClass = "";

@@ -31,7 +31,7 @@ class news(db.Model):
     newsId = db.Column(db.Integer, primary_key=True)
     title = db.Column(db.String(100))
     description = db.Column(db.String(1000))
-    date = db.Column(db.String(100))
+    date = db.Column(db.DateTime, default=datetime.datetime.utcnow)
     image1 = db.Column(db.String(2000000)) # inorder to save some disk space in the server we have to limit this is to 2mb
     imgDes1 = db.Column(db.String(100))
     image2 = db.Column(db.String(2000000))  # inorder to save some disk space in the server we have to limit this is to 2mb
@@ -100,7 +100,18 @@ def getLinks():
 #to get all the news in the database
 @app.route(base_url + 'news', methods=['GET'])
 def getNews():
-    allNews =news.query.all()
+    allNews =news.query.order_by(desc(news.date)).all()
+
+    result = []
+    for currNews in allNews:
+        result.append(row_to_obj_news(currNews))
+
+    return jsonify({"news":result}),200
+
+#to get all the news in the database
+@app.route(base_url + 'news_4', methods=['GET'])
+def getNews_4():
+    allNews =news.query.order_by(desc(news.date)).limit(4)
 
     result = []
     for currNews in allNews:
