@@ -504,6 +504,7 @@ input::-ms-input-placeholder {
 
 
 .navbar-brand {
+	
     padding: 10px 15px;
     
 }
@@ -920,5 +921,12 @@ a i{
     margin-left: -6px;
     text-decoration: none;
 
+}
+
+@media only screen and (max-width: 1370px) {
+    .navbar-brand {
+		
+		margin-left:10%;
+    }
 }
 

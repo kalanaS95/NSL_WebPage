@@ -41,7 +41,7 @@ function fillData(data)
 	   
        if(data[4] != null)
 	   {
-		   webpage.innerHTML = "<a href=" + data[4]+ "><i class=\"fa fa-globe\"></i> Visit class web page (" + data[2]+") </a>";
+		   webpage.innerHTML = "<a href=" + data[4]+ "><i id=\"CourseLink\"class=\"fa fa-globe\"></i> Visit class web page (" + data[2]+") </a>";
 	   }else //just empty it out if the link doesnt exists in the database
 	   {
 		   webpage.innerHTML = "";

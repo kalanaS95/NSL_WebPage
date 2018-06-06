@@ -8,6 +8,8 @@ html, body
 	height:100%;
 	background-image:url("../images/publications_Bk.jpg");
 	background-size: cover;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .mainContainer
@@ -15,7 +17,7 @@ html, body
 	background-color:rgba(0, 0, 0, 0.5);
 	margin-left:5%;
 	margin-right:5%;
-	min-height:50%;
+	/*min-height:50%;*/
 }
 
 

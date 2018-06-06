@@ -8,6 +8,8 @@ html,body{
 	height:100%;
 	background-image:url("../images/coursesBk.jpg");
 	background-size: cover;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
 
 }
 
@@ -18,7 +20,7 @@ html,body{
 	width:100%;
 }
 
-#courseDescription_ a, a i{
+#courseDescription_ a, a #CourseLink{
 	color:white;
 }
 

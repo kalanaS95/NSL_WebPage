@@ -14,7 +14,7 @@ function gettools()
 		tool_panel.innerHTML = "";
 		
 		//lets make constant strings 
-		var wrapperBegin = "<div class=\"panel panel-default\">";
+		var wrapperBegin = "<div class=\"panel panel-default\" id=\"main_panel\">";
 		
 		
 		
@@ -24,7 +24,7 @@ function gettools()
 			var toolTitle = data['tools'][x]['toolTitle'];
             var toolDescription = data['tools'][x]['toolDescription'];
             var toolImage = data['tools'][x]['toolImage'];
-            var titleWrapper = "<div class=\"panel-heading\">";
+            var titleWrapper = "<div class=\"panel-heading\" >";
             var finalHtmlString = "";
             if (toolImage != null) {
                 var descriptionWrapper = "<div class=\"panel-body\"><div class=\"row\"><div class=\"col-xs-6 col-md-9\">";

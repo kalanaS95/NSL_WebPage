@@ -1,0 +1,35 @@
+.nav_bar_en
+{
+	padding-bottom : 200px;
+}
+
+html, body
+{
+	height:100%;
+	background-image:url("../images/tools_Bk.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.panel-heading
+{
+	font-size: 30px;
+	background-color:rgba(0, 0, 0, 0.5) !important;
+	color:#ecf0f1 !important;
+	text-align:center;
+
+}
+
+#main_panel
+{
+
+	background-color:rgba(0, 0, 0, 0.4);
+
+}
+
+p
+{
+	color:#ecf0f1;
+	font-size:18px;
+}
