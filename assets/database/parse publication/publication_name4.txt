@@ -1,0 +1,31 @@
+2000
+W. Trappe, R. Poovendran, J. Song, and K. J. R. Liu, A Dynamic Multicast Key Management Scheme for Groups of Mobile Multimedia Users, presented at the MPEG Intellectual Property Management Proposal (IPMP) group standardization meeting of MPEG-4, October 2000, France.
+NO URL
+
+R. Poovendran, P. Keleher, and J. S. Baras, A Decision Process Analysis of Implicit Co-Scheduling, International Parallel and Distributed Processing Symposium, IEEE Computer Society, May 1-5, Cancun, Mexico, 2000.
+https://www2.ee.washington.edu/research/nsl/papers/IPDPS-00.pdf
+
+1999
+R. Poovendran and J. S. Baras, An Information Theoretic Analysis of Rooted-Tree Based Secure Multicast Key Distribution Schemes, Advances in Cryptology, CRYPTO99, pp. 624-638. August 1999.
+https://www2.ee.washington.edu/research/nsl/papers/CRYPTO-99.pdf
+
+R. Poovendran and J. S. Baras, An Information Theoretic Approach to Secure Multicast Key Management, In Proceedings of IEEE Information Theory and Networking Workshop, June 1999, Metsovo, Greece. (Invited Paper under the fundamentals of Networks section).
+https://www2.ee.washington.edu/research/nsl/papers/ITNW-99.pdf
+
+R. Poovendran, M. S. Corson, and J. S. Baras, A Private Scheme for Distributed, Shared Secret Generation, In Proceedings of IEEE Information Theory Workshop, June 1999, South Africa. (Invited Paper under the high speed networks section).
+https://www2.ee.washington.edu/research/nsl/papers/ITCW-99.pdf
+
+R. Poovendran and J. S. Baras, Optimal Scalable Security Architectures in the Presence of Colluding Mobile Traitors, In Proceedings of the IEEE Emerging Technologies Symposium on Wireless Communications and Systems, April 1999, pp. 1 10, Dallas, Texas.
+https://www2.ee.washington.edu/research/nsl/papers/WCS-99.pdf
+
+R. Poovendran, M. S. Corson, and J. S. Baras, Dynamic Elgamal Public Key Generation with Tight Binding, In Proceedings of the 3rd ATIRP Conference, Feb. 1999, College Park, Maryland.
+https://www2.ee.washington.edu/research/nsl/papers/ATIRP-99.pdf
+
+1998
+
+R. Poovendran, M. S. Corson, and J. S. Baras, A Distributed Shared Key Generation Procedure using Fractional Keys, Proceedings of the IEEE Military Communications Conference, 1998, MILCOM 98, Vol. 3, pp. 1038-1043, 18-21 Oct 1998.
+https://www2.ee.washington.edu/research/nsl/papers/MILCOM-98.pdf
+
+R. Poovendran, S. Ahmed, S. Corson, and J. S. Baras, A Scalable Extension to Group Key Management Protocol, In Proceedings of the 2nd ATIRP Conference, College Park, MD, Feb. 2-6, 1998.
+https://www2.ee.washington.edu/research/nsl/papers/ATIRP-98.pdf
+ 

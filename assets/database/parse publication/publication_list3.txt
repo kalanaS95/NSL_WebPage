@@ -1,0 +1,53 @@
+<p class="year"><a name="9800"></a>1998 - 2000</p>
+
+<p class="entry">W. Trappe, R. Poovendran, J. Song, and K. J. R. Liu, <i>A Dynamic Multicast Key Management Scheme for Groups of Mobile Multimedia Users</i>, presented at the MPEG Intellectual Property Management Proposal (IPMP) group standardization meeting of MPEG-4, October 2000, France.</p>
+
+<p class="entry">R. Poovendran, P. Keleher, and J. S. Baras, <a href="../../papers/IPDPS-00.pdf">A Decision Process Analysis of Implicit Co-Scheduling</a>, International Parallel and Distributed Processing Symposium, IEEE Computer Society, May 1-5, Cancun, Mexico, 2000.</p>
+
+<p class="entry">R. Poovendran and J. S. Baras, <a href="../../papers/CRYPTO-99.pdf">An Information Theoretic Analysis of Rooted-Tree Based Secure Multicast Key Distribution Schemes</a>, Advances in Cryptology, CRYPTO99, pp. 624-638. August 1999.</p>
+
+<p class="entry">R. Poovendran and J. S. Baras, <a href="../../papers/ITNW-99.pdf">An Information Theoretic Approach to Secure Multicast Key Management</a>, In Proceedings of IEEE Information Theory and Networking Workshop, June 1999, Metsovo, Greece. (Invited Paper under the fundamentals of Networks section).</p>
+
+<p class="entry">R. Poovendran, M. S. Corson, and J. S. Baras, <a href="../../papers/ITCW-99.pdf">A Private Scheme for Distributed, Shared Secret Generation</a>, In Proceedings of IEEE Information Theory Workshop, June 1999, South Africa. (Invited Paper under the high speed networks section).</p>
+
+<p class="entry">R. Poovendran and J. S. Baras, <a href="../../papers/WCS-99.pdf">Optimal Scalable Security Architectures in the Presence of Colluding Mobile Traitors</a>, In Proceedings of the IEEE Emerging Technologies Symposium on Wireless Communications and Systems, April 1999, pp. 1 10, Dallas, Texas.</p>
+
+<p class="entry">R. Poovendran, M. S. Corson, and J. S. Baras, <a href="../../papers/ATIRP-99.pdf">Dynamic Elgamal Public Key Generation with Tight Binding</a>, In Proceedings of the 3rd ATIRP Conference, Feb. 1999, College Park, Maryland.</p>
+
+<p class="entry">R. Poovendran, M. S. Corson, and J. S. Baras, <a href="../../papers/MILCOM-98.pdf">A Distributed Shared Key Generation Procedure using Fractional Keys</a>, Proceedings of the IEEE Military Communications Conference, 1998, MILCOM 98, Vol. 3, pp. 1038-1043, 18-21 Oct 1998.</p>
+
+<p class="entry">R. Poovendran, S. Ahmed, S. Corson, and J. S. Baras, <a href="../../papers/ATIRP-98.pdf">A Scalable Extension to Group Key Management Protocol</a>, In Proceedings of the 2nd ATIRP Conference, College Park, MD, Feb. 2-6, 1998.</p>
+
+
+<p>&nbsp;</p>
+<p class="year"><a name="pre98"></a>Prior</p>
+
+<p class="entry">S. Raghavan, S. Srinivasan, R. Poovendran, and W. Campbell, <i>Extracting an image similarity index using meta-data content for image mining applications</i>, pp.78-91, SPIE Proceedings Vol. 2962, 1997.</p>
+
+<p class="entry">R. Poovendran, S. Srinivasan, S. Speigle, and R. Chellappa, <i>Qualitative Landmark Recognition Using Visual Cues</i>, pp.74-83, SPIE Proceedings Vol. 3087, 1997.</p>
+
+<p class="entry">R. Poovendran, <i>Evaluation of ATR Algorithms for SAR Search and Rescue</i>, NASA SAR workshop 1996.</p>
+
+<p class="entry">R. Poovendran and S. Srinivasan, <i>Data Mapping on High Performance Parallel Architecture for 2-D wavelet transforms</i>, IEEE International Conference on High Performance Computing, Dec. 1995.</p>
+
+<p class="entry">R. Poovendran, J. E. Dorband, and A. E. Yagle, <i>An Algorithm for Direct and Inverse Scattering Problems in Time Domain</i>, Journal of Acoustical Society of America, pp. 2021-2027. April 1995.</p>
+
+<p class="entry">R. Poovendran, J. E. Dorband, and J. M. Hollis, <i>HST/FOC Image Restoration Using Calculated PSFs on Parallel Architectures</i>, HST Spectra II, Robert Hanisch Editor, STSci Press, 1994.</p>
+
+<p class="entry">R. Poovendran, J. E. Dorband, and J. M. Hollis, <i>HST Image Processing and Massively Parallel Computing</i>, 2nd workshop on HST Image Restoration, Space Telescope Institute, Baltimore, Nov 1992.</p>
+
+<p class="entry">R. Poovendran and J. E. Dorband, <a href="../../papers/FMPC-92.pdf">An Algorithm for a Class of Direct and Inverse Scattering Problems</a>, Fourth Symposium on the Frontiers of the Massively Parallel Computation, IEEE Computer Society Press, 1992.</p>
+
+<p class="entry">R. Poovendran, A. E. Yagle, B. V. Rao, and J. E. Dorband, <a href="../../papers/IEEEtrancs-92.pdf">On Upper Bounds of the Number of Equivalent Oscillator-Notch Filter Circuits: A Non Commutative Group Theoretic Approach</a>, IEEE Trans. Circuits and Systems: Fundamental Theory and Applications, Vol. 39(9), pp. 756-759, 1992.</p>
+
+<p class="entry">A. E. Yagle and R. Poovendran, <a href="../../papers/inverseproblems92.pdf">Numerical Performance of Layer Stripping Algorithms for two-dimensional Inverse Scattering Problems</a>, Inverse Problems, Vol. 8, pp. 645-665, 1992.</p>
+
+<p class="entry">R. Poovendran and S. S. Rao, <i>A New Toeplitz Algorithm for a class of Positive Definite Matrices</i>, SIAM International Conference On Linear Algebra in Signal, Systems and Control, Nov. 1990.</p>
+
+<p class="entry">R. Poovendran and B. V. Rao, <i>Upper Bound on the Number of Equivalent Oscillator-Notch Filter Circuits</i>, International Journal Of Circuit Theory and Applications, Vol. 18, pp. 521-533, 1990.</p>
+
+<p class="entry">R. Poovendran and M. R. Bhatt, <i>Fast Prime Length Discrete Cosine Transform Algorithms</i>, Proceedings of the International Conference on Data communication Technology, Ireland, Sept. 1988.</p>
+
+<p class="entry">R. Poovendran and M. R. Bhatt, <i>Fast Slice Discrete Hartley Transform Algorithm</i>, International Conference on Communication Systems, Singapore, 1988.</p>
+
+<p class="entry">S. D. Agashe and R. Poovendran, <i>A True Linear Prediction of Speech</i>, Proceedings of the International Conference on Data Communications Technology, Ireland, Sept. 1988.</p>

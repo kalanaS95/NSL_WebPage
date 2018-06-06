@@ -22,18 +22,13 @@ function getLinks()
 {
 	var onSuccess = function(data)
 	{
-		//lets get column one 
-		var col1 = document.getElementById("column_1");
-		//lets get column two
-		var col2 = document.getElementById("column_2");
-		//lets get column two
-		var col3 = document.getElementById("column_3");
-		
+		//lets get columns
+		var col = document.getElementById("columnContainer_");
 		//before start anything lets empty out our columns 
-		col1.innerHTML = col2.innerHTML = col3.innerHTML = "";
+		col.innerHTML = "";
 		
 		//lets make constant strings 
-		var wrapperBegin = "<div class=\"wrapper\" id=\"wrapper_\">";
+		var wrapperBegin = "<div class=\"col-xs-12 col-sm-6 col-md-4  column\"><div class=\"wrapper\" id=\"wrapper_\">";
 		
 		
 		
@@ -46,19 +41,10 @@ function getLinks()
 			//creating an wrapper div with a name attr so we can identify them
 			var circleAndGlobe = "<div class=\"circle\" id=\"circle_\">" + "<div id=\"globe\" name=\""+x+"\" class=\"fa fa-globe\"></div>" + "</div>"
 			
-			var finalHtmlString = wrapperBegin + circleAndGlobe + "<div class=\"linkText\" id=\"linkText_\">" + linkName + "</div>" + "<div class=\"httpLink\" id=\"httpLink_" +x+"\">" + linkLocation + "</div> </div>";
+			var finalHtmlString = wrapperBegin + circleAndGlobe + "<div class=\"linkText\" id=\"linkText_\">" + linkName + "</div>" + "<div class=\"httpLink\" id=\"httpLink_" +x+"\">" + linkLocation + "</div> </div></div>";
 			
 			//now lets add these recod with our dynamically creaeted divs to the above columns
-			if(x%3 == 0) //means we are appending to the first column
-			{
-				col1.innerHTML += finalHtmlString;
-			}else if (x%3 == 1) //means we are appending to the column 2
-			{
-				col2.innerHTML += finalHtmlString;
-			}else  //means we are appending to the column 3
-			{
-				col3.innerHTML += finalHtmlString;
-			}
+			col.innerHTML += finalHtmlString;
 			
 		}
 

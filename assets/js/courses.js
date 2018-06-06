@@ -6,7 +6,7 @@ var dataTable = $('#courseTable_').DataTable(
 		"bLengthChange": false,
 		"bFilter": true,
 		"bInfo": false,
-		"bAutoWidth": true,
+		"bAutoWidth": false,
 		responsive: true
 		
 	});

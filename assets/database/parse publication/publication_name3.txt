@@ -1,0 +1,371 @@
+2013
+
+ A. Clark, K. Sun, and R. Poovendran, "Performance-Aware IP Address Randomization for Moving Target Defense," in the 51st Annual Allerton Conference on Communication, Control, and Computing, October 2013.
+NO URL
+ A. Clark, K. Sun, and R. Poovendran. "Effectiveness of IP Address Randomization in Decoy-Based Moving Target Defense," in the 52nd IEEE Conference on Decision and Control, Florence, Italy, December 2013.
+http://www.ee.washington.edu/research/nsl/papers/clark_cdc_2013_ip.pdf
+ Q. Zhu, A. Clark, R. Poovendran, and T. Başar.  "Deployment and Exploitation of Deceptive Honeybots in Social Networks," in the 52nd IEEE Conference on Decision and Control, Florence, Italy, December 2013.
+http://www.ee.washington.edu/research/nsl/papers/clark_cdc_2013_deployment.pdf
+ F. Huo, C.-C. Yang, G. Gong, and R. Poovendran. "A Framework to Securing RFID Transmissions by Varying Transmitted Reader?s Power,," in the 5th Workshop on RFID Security and Privacy (RFIDsec Asia), November 2013.
+http://www.ee.washington.edu/research/nsl/papers/RFIDSecAsia.pdf
+ C.-C. Yang, B. Alomair, and R. Poovendran.  "Optimized Relay-Route Assignment for Anonymity in Wireless Networks," in IEEE International Symposium on Information Theory (ISIT), July 2013.
+http://www.ee.washington.edu/research/nsl/papers/ISIT-13.pdf
+ A. Clark, L. Bushnell, and R. Poovendran.  "Joint Leader and Weight Selection for Fast Convergence in Multi-Agent Systems," IFAC American Control Conference (ACC), pp. 3751-3757 June 2013.
+http://www.ee.washington.edu/research/nsl/papers/ACC-13-leader.pdf
+ A. Clark, Q. Zhu, R. Poovendran, and T. Başar.  "An Impact-Aware Defense Against Stuxnet," IFAC American Control Conference (ACC), pp. 4070-4077, June 2013.
+http://www.ee.washington.edu/research/nsl/papers/ACC-13-Stuxnet.pdf
+ P. Lee, A. Clark, L. Bushnell, and R. Poovendran. "Modeling and Designing Network Defense against Control Channel Jamming Attacks: A Passivity-Based Approach," IEEE Conference on Information Science and Systems (CISS), Workshop on Control of Cyber-Physical Systems, April 2013.  Invited Paper.
+http://www.ee.washington.edu/research/nsl/papers/CISS-13.pdf
+ K. Sampigethaya, R. Poovendran, S. Taylor, "Flight Privacy in the NextGen: Challenges and Opportunities," Integrated Communications Navigation and Surveillance (ICNS), April 2013.
+NO URL
+ B. Alomair and R. Poovendran, "Efficient Authentication for Mobile and Pervasive Computing," in IEEE Transactions on Mobile Computing.
+http://www.ee.washington.edu/research/nsl/papers/TMC-12.pdf
+ 
+2012
+
+A. Clark, L. Bushnell, and R. Poovendran. "On Leader Selection for Joint Performance and Controllability in Multi-Agent Systems," in 51st IEEE Conference on Decision and Control (CDC), pp. 86-93, December 2012. Finalist for Best Student Paper Award.
+http://www.ee.washington.edu/research/nsl/papers/CDC-12-controllability.pdf
+Q. Zhu, A. Clark, R. Poovendran, and T. Başar. "Deceptive Routing Games," in 51st IEEE Conference on Decision and Control (CDC), pp. 2704-2711, December 2012.
+http://www.ee.washington.edu/research/nsl/papers/CDC-12-routing.pdf
+A Clark, B. Alomair, L. Bushnell, and R. Poovendran. "Leader Selection in Multi-Agent Systems for Smooth Convergence via Fast Mixing," in 51st IEEE Conference on Decision and Control (CDC), pp. 818-824, December 2012.
+http://www.ee.washington.edu/research/nsl/papers/CDC-12-mixing.pdf
+K. Sampigethaya and R. Poovendran, "Aviation Cyber-Physical Systems: Foundations for Future Aircraft and Air Transport," in Proceedings of the IEEE.
+NO URL
+B. Alomair and R. Poovendran, "E-MACs: Towards More Secure and More Efficient Constructions of Secure Channels," in IEEE Transactions on Computers.
+http://www.ee.washington.edu/research/nsl/papers/TC-11.pdf
+  B. Alomair, A. Clark, J. Cuellar, and R. Poovendran, "Scalable RFID Systems: a Privacy-Preserving Protocol with Constant-Time Identification,"ï¿½ in IEEE Trans. Parallel and Distributed Systems, 23(8): 1536-1550 (2012).
+http://www.ee.washington.edu/research/nsl/papers/TPDS.pdf
+A Clark, Q. Zhu, R. Poovendran, and T. Başar. "Deceptive Routing in Relay Networks," in 3rd IEEE Conference on Game and Decision Theory for Security (GameSec), pp. 171-185, November 2012.
+http://www.ee.washington.edu/research/nsl/papers/GameSec-12.pdf
+K. Sampigethaya, R. Poovendran, "Cyber-Physical Integration in Future Aviation Information Systems," in 31th IEEE/AIAA Digital Avionics Systems Conference, October 2012. Best Paper of Session Award in Avionics Information Management session.
+NO URL
+K. Sampigethaya, R. Poovendran, and S. Taylor, "Privacy of general aviation aircraft in the NextGen," in 31th IEEE/AIAA Digital Avionics Systems Conference, October 2012.
+NO URL
+C.-C. Yang, B. Alomair, and R. Poovendran. "Multipath Flow Allocation in Anonymous Wireless Networks with Dependent Sources," in 50th Allerton Conference on Communication, Control, and Computing, September 2012.
+http://www.ee.washington.edu/research/nsl/papers/Allerton-12-anonymity.pdf
+A. Clark, L. Bushnell, and R. Poovendran. "A Passivity-Based Framework for Composing Attacks on Networked Control Systems," in 50th Allerton Conference on Communication, Control, and Computing, September 2012. Invited Paper.
+http://www.ee.washington.edu/research/nsl/papers/Allerton-12.pdf
+K. Sampigethaya, R. Poovendran, and S. Taylor, "Balancing operator privacy and future airspace surveillance," in the 28th Congress of the International Council of the Aeronautical Sciences (ICAS), September 2012.
+NO URL
+M. Conti, R. Poovendran and M. Seccheiro, "FakeBook: Detecting Fake Profiles in On Line Social Networks,"ï¿½ in the first International Workshop on Cyber Security of Online Social Network (CSOSN 2012), August 25th 2012, Istabul, Turkey.
+NO URL
+C.-C. Yang, B. Alomair, and R. Poovendran. "Optimized Flow Allocation for Anonymous Communication in Multipath Wireless Networks," in IEEE International Symposium on Information Theory (ISIT), July 2012.
+http://www.ee.washington.edu/research/nsl/papers/ISIT-12.pdf
+K. Sampigethaya and R. Poovendran, "Enhancing ADS-B for UAV Operations," in AIAA Infotech@ Aerospace conference, June 2012.
+NO URL
+A. Clark, L. Bushnell, and R. Poovendran. "Leader Selection for Minimizing Convergence Error in Leader-Follower Systems: A Supermodular Optimization Approach," in 10th International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt), pp. 111-115, May 2012. Best Paper Award.
+http://www.ee.washington.edu/research/nsl/papers/WiOpt-12.pdf
+ A. Clark, L. Bushnell, and R. Poovendran. "Leader Selection Games under Link Noise Injection Attacks," in 1st ACM International Conference on High Confidence Networked Systems (HiCONS), pp. 31-40, April 2012.
+http://www.ee.washington.edu/research/nsl/papers/HiCONS-12.pdf
+K. Sampigethaya, R. Poovendran, "Cyber-Physical Perspective of Future Aircraft and Airborne Networks," in IEEE Aerospace conference, March 2012.
+NO URL
+  R. Poovendran, K. Sampigethaya, S. Gupta, I. Lee, K. V. Prasad, D. Corman, J. Paunicka, "Special issue on Cyber-Physical Systems [Scanning the Issue]," Proceedings of the IEEE, vol. 100, no. 1, pp. 612, January 2012.
+NO URL
+ 
+2011
+
+A. Clark and R. Poovendran. "Submodular Optimization Framework for Leader Selection in Linear Multi-Agent Systems," in 50th IEEE Conference on Decision and Control and European Control Conference (CDC-ECC), pp. 3614-3621 December 2011.
+http://www.ee.washington.edu/research/nsl/papers/CDC-11.pdf
+A. Clark and R. Poovendran, "Maximizing Influence in Competitive Environments: A Game-Theoretic Approach," in 2nd IEEE Conference on Game and Decision Theory for Security (GameSec), pp. 151-162, November 2011.
+http://www.ee.washington.edu/research/nsl/papers/GameSec-11.pdf
+Basel Alomair, Andrew Clark, Jorge Cuellar, and Radha Poovendran, Towards a Statistical Framework for Source Anonymity in Sensor Networks, in IEEE Transactions on Mobile Computing.
+http://www.ee.washington.edu/research/nsl/papers/TMC-11.pdf
+Krishna Sampigethaya, Radha Poovendran, Sudhakar Shetty, Terry Davis, Chuck Royalty, "Future e-enabled aircraft communications and security: The next twenty years and beyond," Proceedings of the IEEE, Special issue on Aerospace Communications and Networking in the Next Two Decades, November 2011.
+NO URL
+Krishna Sampigethaya and Radha Poovendran, Enhancing ADS-B for UAS Operations in the NextGen, in Proceedings of the 30th AIAA/IEEE Digital Avionics Systems Conference (DASC), October 2011.
+NO URL
+Sidharth Nabar, Ayan Banerjee, Sandeep Gupta and Radha Poovendran,GeM-REM: Generative Model-driven Resource-efficient ECG Monitoring in Body Sensor Networks, in proceedings of Body Sensor Networks (BSN ''11), May 2011.
+http://www.ee.washington.edu/research/nsl/papers/BSN-11.pdf
+Patrick Tague, Sidharth Nabar, Jim Ritcey, and Radha Poovendran,  Jamming-Aware Traffic Allocation for Multiple-Path Routing using Portfolio Selection IEEE/ACM Transactions on Networking Vol. 19, No.1 February 2011, page 184
+http://www.ee.washington.edu/research/nsl/papers/ToN_11.pdf
+Basel Alomair, Loukas Lazos, and Radha Poovendran, Securing Low-Cost RFID Systems: an Unconditionally Secure Approach, Journal of Computer Security (JCS), Volume 19, Issue 2, Pages 229-257, 2011.
+http://www.ee.washington.edu/research/nsl/papers/JCS.pdf
+He Wu, Sidharth Nabar and Radha Poovendran, An Energy Framework for the Network Simulator 3 (ns-3), 4th International ICST Conference on Simulation Tools and Techniques (SIMUTools ''11)
+http://www.ee.washington.edu/research/nsl/papers/SIMUTools-11.pdf
+Krishna Sampigethaya and Radha Poovendran, Security and Privacy of Future Aircraft Wireless Communications with Offboard Systems, IEEE COMSNETS, 5th Annual Workshop on Wireless Systems: Advanced Research & Development (WISARD), January 2011.
+NO URL
+Sidharth Nabar, Ayan Banerjee, Sandeep Gupta and Radha Poovendran, Generative Model-driven Resource-efficient Monitoring of ECG, Network Security Lab (NSL) Technical Report #001, 2011.
+NO URL
+ 
+2010
+
+Andrew Clark, Rommie Hardy and Radha Poovendran, A Joint Performance-Vulnerability Metric Framework for Designing Ad Hoc Routing Protocols, IEEE Military Communications Conference (MILCOM ''10) November 2010
+http://www.ee.washington.edu/research/nsl/papers/MILCOM-10.pdf
+Basel Alomair and Radha Poovendran, Efficient Authentication for Mobile and Pervasive Computing, 12th International Conference on Information and Communications Security (ICICS''10), December 2010.
+http://www.ee.washington.edu/research/nsl/papers/ICICS-10.pdf
+Sidharth Nabar, Ayan Banerjee, Sandeep Gupta and Radha Poovendran, Evaluation of Body Sensor Network Platforms: A Design Space and Benchmarking Analysis, Wireless Health Conference (WH''10), October 2010. Please also see BSNBench Software Tool
+http://www.ee.washington.edu/research/nsl/papers/WH-2010.pdf
+Basel Alomair and Radha Poovendran, Privacy versus Scalability in Radio Frequency Identification Systems, Journal of Computer Communications (COMCOM), Volume 33, Issue 18, Pages 2155-2163, 2010.
+http://www.ee.washington.edu/research/nsl/papers/COMCOM.pdf
+Basel Alomair, Andrew Clark, Jorge Cuellar, and Radha Poovendran, Statistical Framework for Source Anonymity in Sensor Networks, 53rd IEEE Global Communications Conference (GLOBECOM''10), December 2010.
+http://www.ee.washington.edu/research/nsl/papers/GLOBECOM-10.pdf
+Basel Alomair and Radha Poovendran, E-MACs: Towards More Secure and More Efficient Constructions of Secure Channels, 13th International Conference on Information Security and Cryptology (ICISC''10), December 2010.
+http://www.ee.washington.edu/research/nsl/papers/ICISC-10.pdf
+Basel Alomair, Andrew Clark, and Radha Poovendran, The Power of Primes: Security of Authentication Based on a Universal Hash-Function Family, Journal of Mathematical Cryptology (JMC), Volume 4, Issue 2, Pages 121-148, 2010.
+http://www.ee.washington.edu/research/nsl/papers/JMC.pdf
+Krishna Sampigethaya and Radha Poovendran, Visualization and Assessment of ADS-B Security for Green ATM, in proceedings of the 29th IEEE Digital Avionics Systems Conference (DASC), October 2010. Best Paper Award for the NextGen Surveillance Session.
+NO URL
+Krishna Sampigethaya and Radha Poovendran, Enhancing Location Privacy of Future Aircraft Wireless Communications, in proceedings of the 10th AIAA Aviation Technology, Integration and Operations (ATIO), September 2010.
+NO URL
+R. Poovendran, "Cyber-Physical Systems: Close Encounters Between Two Parallel Worlds [Point of View]," Proceedings of the IEEE, vol. 98, no. 8, pp. 1363-1366, August 2010.
+NO URL
+Basel Alomair, Andrew Clark, Jorge Cuellar, and Radha Poovendran, On Source Anonymity in Wireless Sensor Networks, 40th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN''10), June 2010. Abstract.
+http://www.ee.washington.edu/research/nsl/papers/DSN-10(FA).pdf
+Sidharth Nabar, Jeffrey Walling and Radha Poovendran,  Minimizing Energy Consumption in Body Sensor Networks via Convex Optimization, International Conference on Body Sensor Networks, June 2010.
+http://www.ee.washington.edu/research/nsl/papers/BSN-10.pdf
+Basel Alomair, Andrew Clark, Jorge Cuellar, and Radha Poovendran,  Scalable RFID Systems: a Privacy-Preserving Protocol with Constant-Time Identification, 40th Annual IEEE/IFIP International Conference on Dependable Systems and Networks (DSN''10), June 2010. William C. Carter Award.
+http://www.ee.washington.edu/research/nsl/papers/DSN-10.pdf
+Weiyao Lin, Ming-Ting Sun, Radha Poovendran, Zhengyou Zhang,  Group Event Detection with a Varying Number of Group Members for Video Surveillance, proceedings, IEEE Transactions on Circuits and Systems for Video Technology.
+NO URL
+Andrew Clark and Radha Poovendran,  A Metric for Quantifying Key Exposure Vulnerability in Wireless Sensor Networks, in proceedings of IEEE Wireless Communications and Networking Conference, April 2010.
+http://www.ee.washington.edu/research/nsl/papers/wcnc2010.pdf
+Basel Alomair, Loukas Lazos, and Radha Poovendran, Securing Low-Cost RFID Systems: an Unconditionally Secure Approach, sixth Workshop on RFID Security, RFIDsec''10 Asia, February 2010.
+http://www.ee.washington.edu/research/nsl/papers/RFIDsec-10.pdf
+Krishna Sampigethaya and Radha Poovendran, Assessment and Mitigation of Cyber Exploits in Future Networked Surveillance of Aircraft, IEEE Aerospace conference, March 2010.
+NO URL
+ Basel Alomair and Radha Poovendran, Information Theoretically Secure Encryption with Almost Free Authentication, Journal of Universal Computer Science, special issue on Security in Information Systems: New Advances and Tendencies, Spring 2010.
+http://www.ee.washington.edu/research/nsl/papers/jucs.pdf
+2009
+
+Krishna Sampigethaya and Radha Poovendran, Privacy of future air traffic management broadcasts, proceedings, IEEE Digital Avionics Systems Conference (DASC), October 2009.
+NO URL
+Krishna Sampigethaya, Radha Poovendran, Linda Bushnell, Mingyan Li, Richard Robinson, Scott Lintelman, Secure Wireless Collection and Distribution of Commercial Airplane Health Data, IEEE Aerospace and Electronic Systems Magazine, vol.24, no.7, pp.14-20, July 2009.
+http://www.ee.washington.edu/research/nsl/papers/DASC-07.pdf
+Patrick Tague, David Slater, Guevara Noubir, and Radha Poovendran, Quantifying the Impact of Efficient Cross-Layer Jamming Attacks via Network Traffic Flows, Network Security Lab (NSL) Technical Report #005, 2009.
+http://www.ee.washington.edu/research/nsl/papers/TR005.pdf
+Patrick Tague, Sidharth Nabar, Jim Ritcey, and Radha Poovendran, Jamming-Aware Traffic Allocation for Multiple Path Routing using Portfolio Selection, Network Security Lab (NSL) Technical Report #004, 2009.
+http://www.ee.washington.edu/research/nsl/papers/TR004.pdf
+Basel Alomair, Andrew Clark, Jorge Cuellar, and Radha Poovendran, Scalable RFID Systems: a Privacy-Preserving Protocol with Constant-Time Identification, Network Security Lab (NSL) Technical Report #006, 2009.
+http://www.ee.washington.edu/research/nsl/papers/TR006.pdf
+Basel Alomair, Andrew Clark, Jorge Cuellar, and Radha Poovendran, Statistical Framework for Source Anonymity in Sensor Networks, Network Security Lab (NSL) Technical Report #003, 2009.
+http://www.ee.washington.edu/research/nsl/papers/TR003.pdf
+Mingyan Li, Krishna Sampigethaya, and Radha Poovendran, Certificate-Based Trust Establishment in e-Enabled Airplane Applications: Challenges and Approaches, in "Trust Modeling and Management in Digital Environments: From Social Concept to System Development", 2009.
+NO URL
+Basel Alomair and Radha Poovendran, Unconditionally Secure Authenticated Encryption with Shorter Keys, 7th International Workshop on Security in Information Systems (WOSIS''09), May 2009.
+http://www.ee.washington.edu/research/nsl/papers/wosis-09.pdf
+Patrick Tague, Mingyan Li, and Radha Poovendran, Mitigation of Control Channel Jamming under Node Capture Attacks, IEEE Transactions on Mobile Computing, Vol. 8, No. 9, September 2009.
+http://www.ee.washington.edu/research/nsl/papers/TMC-09.pdf
+Krishna Sampigethaya, Radha Poovendran, and Linda Bushnell, A Framework for Securing Future eEnabled Airplane Navigation and Surveillance, AIAA Infotech@Aerospace Conference, April 2009.
+http://www.ee.washington.edu/research/nsl/papers/aiaaInfotech09a.pdf
+Basel Alomair, Krishna Sampigethaya, Andrew Clark, and Radha Poovendran, Towards Trustworthy Cryptographic Protection of Airplane Information Assets, AIAA Infotech@Aerospace Conference, April 2009.
+http://www.ee.washington.edu/research/nsl/papers/aiaaInfotech09b.pdf
+David Slater, Patrick Tague, Mingyan Li, and Radha Poovendran, A Game-Theoretic Framework for Jamming Attacks and Mitigation in Commercial Aircraft Wireless Networks, AIAA Infotech@Aerospace Conference, April 2009.
+http://www.ee.washington.edu/research/nsl/papers/aiaaInfotech09c.pdf
+David Slater, Patrick Tague, Radha Poovendran, and Brian J. Matt, A Coding-Theoretic Approach for Efficient Message Verification Over Insecure Channels, Second ACM Conference on Wireless Network Security (WiSec), March 2009.
+http://www.ee.washington.edu/research/nsl/papers/WiSec-09.pdf
+David Slater, Radha Poovendran, Patrick Tague, and Brian J. Matt, Tradeoffs Between Jamming Resilience and Communication Efficiency in Key Establishment, Invited Paper, ACM Mobile Computing and Communications Review, Vol. 13, No. 1, January 2009.
+http://www.ee.washington.edu/research/nsl/papers/MC2R-09.pdf
+Weiyao Lin, Ming-Ting Sun, Radha Poovendran, and Zhengyou Zhang, Group Event Detection for Video Surveillance, proceedings at 2009 International Symposium on Circuits and Systems (ISCAS''09).
+http://www.ee.washington.edu/research/nsl/papers/ISCAS-09.pdf
+ 
+2008
+
+Patrick Tague, David Slater, Jason Rogers, and Radha Poovendran, Evaluating the Vulnerability of Network Traffic Using Joint Security and Routing Analysis, IEEE Transactions on Dependable and Secure Computing, vol. 6, no. 2, pp. 111-123, April-June 2009.
+http://www.ee.washington.edu/research/nsl/papers/TDSC-08.pdf
+Basel Alomair and Radha Poovendran, On the Authentication of RFID Systems with Bitwise Operations, Second International Conference on New Technologies, Mobility and Security (NTMS), November 2008.
+http://www.ee.washington.edu/research/nsl/papers/NTMS-08.pdf
+Krishna Sampigethaya, Radha Poovendran, and Linda Bushnell, Secure Operation, Control and Maintenance of Future e-Enabled Airplane, in proceedings of Proceedings of the IEEE, special issue on Aviation Information Systems, December 2008.
+http://www.ee.washington.edu/research/nsl/papers/PROC-08.pdf
+Loukas Lazos, Radha Poovendran, and Jim Ritcey, Analytic Evaluation of Target Detection in Heterogeneous Wireless Sensor Networks, in proceedings of ACM Transactions on Sensor Networks.
+http://www.ee.washington.edu/research/nsl/papers/TOSN-08.pdf
+Patrick Tague and Radha Poovendran, Modeling Node Capture Attacks in Wireless Sensor Networks, Invited Paper, 46th Annual Allerton Conference on Communication, Control, and Computing, September 2008.
+http://www.ee.washington.edu/research/nsl/papers/allerton-08.pdf
+Mingyan Li, Radha Poovendran, Rainer Falk, Andreas Köpf, Krishna Sampigethaya, Richard Robinson, and Scott Lintelman, Multi-Domain RFID Access Control Using Asymmetric Key Based Tag-Reader Mutual Authentication, 26th Congress of the International Council of the Aeronautical Sciences (ICAS), September 2008.
+http://www.ee.washington.edu/research/nsl/papers/ICAS-08b.pdf
+Patrick Tague, Sidharth Nabar, Jim Ritcey, David Slater, and Radha Poovendran, Throughput Optimization for Multipath Unicast Routing Under Probabilistic Jamming, 19th Annual IEEE International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC), September 2008.
+http://www.ee.washington.edu/research/nsl/papers/PIMRC-08.pdf
+Krishna Sampigethaya, Radha Poovendran, and Linda Bushnell, Security of Future eEnabled Aircraft Ad hoc Networks, 8th AIAA Aviation Technology, Integration, and Operations (AIAA ATIO) Conference, September 2008.
+http://www.ee.washington.edu/research/nsl/papers/atio-08.pdf
+Radha Poovendran, Krishna Sampigethaya, Linda Bushnell, Mingyan Li, Richard Robinson, Scott Lintelman, Security of Wireless Sensor Network Enabled Health Monitoring for Commercial Airplanes, 26th Congress of the International Council for Aeronautical Sciences (AIAA ICAS), September 2008.
+http://www.ee.washington.edu/research/nsl/papers/icas-08.pdf
+W. Lin, M.-T. Sun, R. Poovendran, and Z. Zhang, Activity Recognition Using a Combination of Category Components and Local Models for Video Surveillance, IEEE Transactions on Circuits and Systems for Video Technology, Vol. 18, No. 8, August 2008.
+http://www.ee.washington.edu/research/nsl/papers/tcsvt-08.pdf
+Basel Alomair, Krishna Sampigethaya, and Radha Poovendran, Efficient Generic Forward-Secure Signatures and Proxy Signatures, 5th European PKI Workshop (EuroPKI''08), June 2008.
+http://www.ee.washington.edu/research/nsl/papers/europki-08.pdf
+W. Lin, M.-T. Sun, R. Poovendran, and Z. Zhang, Human Activity Recognition for Video Surveillance, 2008 International Symposium on Circuits and Systems (ISCAS''08), Seattle, WA, May 2008.
+http://www.ee.washington.edu/research/nsl/papers/iscas-08.pdf
+Patrick Tague, David Slater, Jason Rogers, and Radha Poovendran, Vulnerability of Network Traffic under Node Capture Attacks using Circuit Theoretic Analysis, 27th IEEE Conference on Computer Communications (INFOCOM''08), April 2008.
+http://www.ee.washington.edu/research/nsl/papers/infocom-08.pdf
+Patrick Tague, David Slater, Guevara Noubir, and Radha Poovendran, Linear Programming Models for Jamming Attacks on Network Traffic Flows, 6th Intl. Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt''08), April 2008.
+http://www.ee.washington.edu/research/nsl/papers/wiopt-08.pdf
+Scott Lintelman, Krishna Sampigethaya, Mingyan Li, Radha Poovendran, and Richard Robinson, High Assurance Aerospace CPS and Implications for Automotive Industry, National Workshop on High Confidence Automotive Cyber-Physical Systems (CPS), April 2008.
+http://www.ee.washington.edu/research/nsl/papers/HCSS-08.pdf
+ 
+2007
+
+Loukas Lazos, Radha Poovendran, and Jim Ritcey, Detection of Mobile Targets on the Plane and in Space Using Heterogeneous Sensor Networks, ACM/Kluwer Wireless Networking (WINET), December 2007.
+http://www.ee.washington.edu/research/nsl/papers/winet-07.pdf
+Patrick Tague, David Slater, Guevara Noubir, and Radha Poovendran, Linear Programming Models for Jamming Attacks on Network Traffic Flows, Network Security Lab (NSL) Technical Report #002, 2007.
+http://www.ee.washington.edu/research/nsl/papers/TR002.pdf
+Basel Alomair, Loukas Lazos, and Radha Poovendran, Passive Attacks on a Class of Authentication Protocols for RFID, International Conference on Information Security and Cryptology, 2007.
+http://www.ee.washington.edu/research/nsl/papers/ICISC-07.pdf
+Krishna Sampigethaya, Mingyan Li, Leping Huang, and Radha Poovendran, AMOEBA: Robust Location Privacy Scheme for VANET, IEEE JSAC Special Issue on Vehicular Networks, October 2007.
+http://www.ee.washington.edu/research/nsl/papers/JSAC-07.pdf
+Krishna Sampigethaya, Mingyan Li, Radha Poovendran, Richard Robinson, Linda Bushnell, and Scott Lintelman, Secure Wireless Collection and Distribution of Commercial Airplane Health Data, AIAA/IEEE Digital Avionics Systems Conference (DASC), 2007.
+http://www.ee.washington.edu/research/nsl/papers/DASC-07.pdf
+Patrick Tague, Mingyan Li and Radha Poovendran, Probabilistic Mitigation of Control Channel Jamming via Random Key Distribution, 18th Annual IEEE International Symposium on Personal, Indoor, and Mobile Radio Communications (PIMRC), September 2007. Best Student Paper Award.
+http://www.ee.washington.edu/research/nsl/papers/PIMRC-07.pdf
+Javier Salido, Loukas Lazos, and Radha Poovendran, Energy and Bandwidth-Efficient Key Distribution in Wireless Ad-Hoc Networks: A Cross-Layer Approach, in proceedings of IEEE/ACM Transactions on Networking, 2007.
+http://www.ee.washington.edu/research/nsl/papers/TON-07.pdf
+Patrick Tague and Radha Poovendran, A Canonical Seed Assignment Model for Key Predistribution in Wireless Sensor Networks, ACM Transactions on Sensor Networks, Vol. 3, No. 4, October 2007.
+http://www.ee.washington.edu/research/nsl/papers/TOSN-07.pdf
+Loukas Lazos, Radha Poovendran, and Jim Ritcey, Probabilistic Detection of Mobile Targets in Heterogeneous Sensor Networks, Proceedings of 6th International Symposium on Information Processing in Sensor Networks (IPSN), April 2007.
+http://www.ee.washington.edu/research/nsl/papers/ipsn-07.pdf
+Rainer Falk, Florian Kohlmayer, Andreas Köpf, Mingyan Li, and Radha Poovendran, High-Assurance SDR-based Avionics RFID System, 2007 SDR Forum Technical Conference, 2007.
+http://www.ee.washington.edu/research/nsl/papers/SDRF-07.pdf
+Richard Robinson, Krishna Sampigethaya, Mingyan Li, Scott Lintelman, Radha Poovendran, David von Oheimb, Secure Network-Enabled Commerical Airplane Operations: IT Support Infrastructure Challenges, First CEAS European Air and Space Conference Century Perspectives (CEAS), 2007.
+http://www.ee.washington.edu/research/nsl/papers/CEAS-07.pdf
+Richard Robinson, Mingyan Li, Krishna Sampigethaya, Radha Poovendran, Scott Lintelman, David von Oheimb, Jens-Uwe Bußer, Impact of Public Key Enabled Applications on the Operation and Maintenance of Commercial Airplanes, AIAA Aviation Technology, Integration and Operations (ATIO) conference, 2007.
+http://www.ee.washington.edu/research/nsl/papers/ATIO-07.pdf
+Richard Robinson, Mingyan Li, Krishna Sampigethaya, Radha Poovendran, Scott Lintelman, David von Oheimb, Jens-Uwe Bußer, Jorge Cuellar, Electronic Distribution of Airplane Software and the Impact of Information Security on Airplane Safety, International Conference on Computer Safety, Reliability and Security (Safecomp), 2007.
+http://www.ee.washington.edu/research/nsl/papers/SAFECOMP-07.pdf
+Loukas Lazos, Radha Poovendran, and Jim Ritcey, On the Deployment of Heterogeneous Sensor Networks for Detection of Mobile Targets, International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt''07), April 2007.
+http://www.ee.washington.edu/research/nsl/papers/wiopt-07.pdf
+Mingyan Li, Iordanis Koutsopoulos, and Radha Poovendran, Optimal Jamming Attacks and Network Defense Policies in Wireless Sensor Networks, IEEE INFOCOM, 2007.
+http://www.ee.washington.edu/research/nsl/papers/infocom-2007.pdf
+Richard Robinson, Krishna Sampigethaya, Mingyan Li, Scott Lintelman, Radha Poovendran, David von Oheimb, Challenges for IT Infrastructure Supporting Secure Network-Enabled Commercial Airplane Operations, American Institute of Aeronautics and Astronautics (AIAA) Infotech@Aerospace conference, 2007.
+http://www.ee.washington.edu/research/nsl/papers/AIAA-Infotech-2007.pdf
+Secure Localization and Time Synchronization for Wireless Sensor and Ad Hoc Networks, Radha Poovendran, Cliff Wang, and Sumit Roy (ed.), Advances in Information Security series, Vol. 30, Springer, 2007, ISBN 978-0-387-32721-1.
+http://www.ee.washington.edu/research/nsl/papers/book-2006.pdf
+ 
+2006
+
+Loukas Lazos, Radha Poovendran, and Jim Ritcey, Probabilistic Detection of Mobile Targets in Heterogeneous Sensor Networks, Network Security Lab (NSL) Technical Report #001, 2006.
+http://www.ee.washington.edu/research/nsl/papers/TRdetection06.pdf
+Patrick Tague and Radha Poovendran, Modeling Adaptive Node Capture Attacks in Multihop Wireless Networks, Elsevier Ad Hoc Networks, Vol. 5, No. 6, pp. 801-814, August 2007.
+http://www.ee.washington.edu/research/nsl/papers/adhoc-06.pdf
+Scott Lintelman, Richard Robinson, Mingyan Li, David von Oheimb, Radha Poovendran, and Krishna Sampigethaya, Security Assurance for IT Infrastructure Supporting Airplane Production, Maintenance and Operation (position paper), National Workshop on Aviation Software Systems: Design for Certifiably Dependable Systems, October 2006.
+http://www.ee.washington.edu/research/nsl/papers/HCSS2006.pdf
+Krishna Sampigethaya and Radha Poovendran,	A Survey on Mix Networks and their Secure Applications, Proceedings of the IEEE, Vol. 94, No. 12, 2142-2181, December 2006.
+http://www.ee.washington.edu/research/nsl/papers/proceedings-06.pdf
+Mingyan Li, Krishna Sampigethaya, Leping Huang, and Radha Poovendran, Swing & Swap: User-Centric Approaches Towards Maximizing Location Privacy, ACM Workshop on Privacy in the Electronic Society (WPES), October 2006.
+http://www.ee.washington.edu/research/nsl/papers/WPES-2006.pdf
+Loukas Lazos and Radha Poovendran, Secure Localization for Wireless Sensor Networks using Range-Independent Methods, in "Secure Localization and Time Synchronization for Wireless Sensor and Ad Hoc Networks", eds. Radha Poovendran, Cliff Wang, and Sumit Roy, Advances in Information Security series, Vol. 30, pp. 185-214, Springer, 2007, ISBN 978-0-387-32721-1.
+http://www.ee.washington.edu/research/nsl/papers/book-2006-ch-1.pdf
+Catherine Meadows, Radha Poovendran, Dusko Pavlovic, LiWu Chang, Paul Syverson,  Distance Bounding Protocols: Authentication Logic Analysis and Collusion Attacks, in "Secure Localization and Time Synchronization for Wireless Sensor and Ad Hoc Networks", eds. Radha Poovendran, Cliff Wang, and Sumit Roy, Advances in Information Security series, Vol. 30, pp. 279-298, Springer, 2007, ISBN 978-0-387-32721-1.
+http://www.ee.washington.edu/research/nsl/papers/book-2006-ch-2.pdf
+JH. Song, R. Poovendran, J. Lee, and T. Iwata, The Advanced Encryption Standard-Cipher-based Message Authentication Code-Pseudo-Random Function-128 (AES-CMAC-PRF-128) Algorithm for the Internet Key Exchange Protocol (IKE), RFC 4615, August 2006.
+http://tools.ietf.org/html/rfc4615
+JH. Song, R. Poovendran, and J. Lee, The AES-CMAC-96 Algorithm and Its Use with IPsec, RFC 4494, June 2006.
+http://tools.ietf.org/html/rfc4494
+JH. Song, R. Poovendran, J. Lee, and T. Iwata, The AES-CMAC Algorithm, RFC 4493, June 2006.
+http://www.rfc-editor.org/rfc/rfc4493.txt
+Loukas Lazos and Radha Poovendran, Stochastic Coverage in Heterogeneous Sensor Networks, ACM Transactions on Sensor Networks, Vol. 2, No. 3, pp. 325-358, August 2006.
+http://www.ee.washington.edu/research/nsl/papers/TOSN-06.pdf
+Mingyan Li and Radha Poovendran, Disenrollment with Perfect Forward Secrecy in Threshold Schemes, IEEE Transactions on Information Theory, Vol. 52, No. 4, pp. 1676-1682, April 2006.
+http://www.ee.washington.edu/research/nsl/papers/IT-05.pdf
+Patrick Tague and Radha Poovendran, A General Probabilistic Model for Improving Key Assignment in Wireless Networks, 4th International Symposium on Modeling and Optimization in Mobile, Ad-hoc, and Wireless Networks (WiOpt ''06), 2006.
+http://www.ee.washington.edu/research/nsl/papers/WiOpt-06b.pdf
+Loukas Lazos and Radha Poovendran, Coverage in Heterogeneous Sensor Networks, 4th International Symposium on Modeling and Optimization in Mobile, Ad-hoc, and Wireless Networks (WiOpt ''06), 2006.
+http://www.ee.washington.edu/research/nsl/papers/WiOpt-06.pdf
+ 
+2005
+
+Patrick Tague, Jooyoung Lee, and Radha Poovendran, 	A Set-Covering Approach for Modeling Attacks on Key Predistribution in Wireless Sensor Networks, in Proceedings of IEEE ICISIP, December 2005.
+http://www.ee.washington.edu/research/nsl/papers/ICISIP-2005.pdf
+Krishna Sampigethaya and Radha Poovendran, A Framework and Taxonomy for Comparison of Electronic Voting Schemes, Elsevier Journal of Computers and Security, Vol. 25, No. 2, pp. 137-153, March 2006.
+http://www.ee.washington.edu/research/nsl/papers/JCS-05.pdf
+Krishna Sampigethaya, Leping Huang, Mingyan Li, Radha Poovendran, K. Matsuura, and K. Sezaki,      CARAVAN: Providing Location Privacy for VANET, in Proceedings of Embedded Security in Cars (ESCAR), November 2005.
+http://www.ee.washington.edu/research/nsl/papers/ESCAR-05.pdf
+Radha Poovendran and Loukas Lazos, A Graph Theoretic Framework for Preventing the Wormhole Attack in Wireless Ad Hoc Networks, ACM Journal on Wireless Networks (WINET), Vol. 13, Issue 1, pp. 27-59, February 2007.
+http://www.ee.washington.edu/research/nsl/papers/WINET-05b.pdf
+Siu-Ping Chan, Radha Poovendran, and Ming-Ting Sun,       A Key Management Scheme in Distributed Sensor Networks Using Attack Probabilities, IEEE Globecom, December 2005.
+http://www.ee.washington.edu/research/nsl/papers/GLOBECOM-05.pdf
+Mingyan Li and Radha Poovendran,Enabling Distributed Addition of Secure Access to Patient''s Records in A Tele-Referring Group, Proceedings of the 27th IEEE EMBS Annual International Conference (EMBC), Shanghai, China, September 2005.
+http://www.ee.washington.edu/research/nsl/papers/EMBC-05.pdf
+Mingyan Li, Radha Poovendran, and S. Narayanan,Protecting Patient Privacy Against Unauthorized Release of Medical Images in a Group Communication Environment, Computerized Medical Imaging and Graphics, Vol. 29, No. 5, pp. 367-383, July 2005.
+http://www.ee.washington.edu/research/nsl/papers/CMIG-05.pdf
+Loukas Lazos and Radha Poovendran, SeRLoc: Robust Localization for Wireless Sensor Networks, ACM Transactions on Sensor Networks, Vol. 1, No. 1, pp. 73-100, August 2005.
+http://www.ee.washington.edu/research/nsl/papers/TOSN-05.pdf
+Loukas Lazos and Radha Poovendran, HiRLoc: Hi-Resolution Robust Localization for Wireless Sensor Networks, IEEE Journal on Selected Areas in Communications (JSAC), Special Issue on Network Security, February 2006, Vol. 24, No. 2, pp. 233-246.
+http://www.ee.washington.edu/research/nsl/papers/JSAC-05.pdf
+Loukas Lazos and Radha Poovendran, Power Proximity Based Key Management for Secure Multicast in Ad Hoc Networks, ACM Journal on Wireless Networks (WINET), Vol. 13, No. 1, pp. 127-148, Feb 2007.
+http://www.ee.washington.edu/research/nsl/papers/WINET-05.pdf
+Intae Kang and Radha Poovendran, Maximizing Network Lifetime of Broadcasting over Wireless Stationary Ad Hoc Networks, ACM/Kluwer Mobile Networks and Applications (MONET) Special Issue on Energy Constraints and Lifetime Performance in Wireless Sensor Networks, Vol. 10, No. 6, December 2005.
+http://www.ee.washington.edu/research/nsl/papers/MONET-05.pdf
+Loukas Lazos, Srdjan Capkun, and Radha Poovendran, ROPE: Robust Position Estimation in Wireless Sensor Networks, The Fourth International Conference on Information Processing in Sensor Networks (IPSN ''05), April 2005.
+http://www.ee.washington.edu/research/nsl/papers/IPSN-05.pdf
+Intae Kang and Radha Poovendran, Iterated Local Optimization for Minimum Energy Broadcast, 3rd International Symposium on Modeling and Optimization in Mobile, Ad-hoc and Wireless Networks (WiOpt ''05), Riva del Garda, Trentino, Italy, April 2005.
+http://www.ee.washington.edu/research/nsl/papers/Wiopt-05.pdf
+Mingyan Li, S. Narayanan, and Radha Poovendran, Privacy Enhanced Group Communication in Clinical Environment, Proceedings of SPIE Medical Imaging 2005: PACS and Imaging Informatics, Vol. 5748, pp. 348-56, San Diego, CA, February 2005.
+http://www.ee.washington.edu/research/nsl/papers/SPIE-05.pdf
+R. Poovendran and B. Matt, Security Analysis and Extensions of PCB Algorithm for Distributed Key Generation, in "Harmonic Analysis, Signal Processing, and Complexity," eds. I. Sabadini, D.C. Struppa, and David Walnut, Applied and Numerical Harmonic Analysis series, pp. 135-150. Vol. 238 in the series Progress in Mathematics, Birkhauser, Boston, 2005.
+http://www.ee.washington.edu/research/nsl/papers/book-chapter-05.pdf
+Intae Kang, Radha Poovendran, Scalable Power-Efficient Broadcast Over Densely Deployed Wireless Ad Hoc Networks, IEEE Wireless Communications and Networking Conference (WCNC), 2005.
+NO URL
+Loukas Lazos, Radha Poovendran, C. Meadows, P. Syverson, and L. W. Chang, Preventing Wormhole Attacks on Wireless Ad Hoc Networks: A Graph Theoretic Approach, IEEE Wireless Communications and Networking Conference (WCNC), 2005.
+http://www.ee.washington.edu/research/nsl/papers/WCNC-05.pdf
+Mingyan Li, Radha Poovendran, and David McGrew, Minimizing Center Key Storage in Hybrid One-Way Function Based Group Key Management with Communication Constraints, Information Processing Letters, February 2005.
+http://www.ee.washington.edu/research/nsl/papers/IPL-05.pdf
+ 
+2004
+
+Loukas Lazos and Radha Poovendran, SeRLoc: Secure Range-Independent Localization for Wireless Sensor Networks, 2004 ACM Workshop on Wireless Security (ACM WiSe 2004), Philadelphia, PA.
+http://www.ee.washington.edu/research/nsl/papers/WISE-04.pdf
+Intae Kang and Radha Poovendran, Broadcast with Heterogeneous Node Capability, IEEE Global Telecommunications Conference (Globecom), Nov-Dec, 2004, Dallas, Texas.
+http://www.ee.washington.edu/research/nsl/papers/GLOBECOM-04.pdf
+Mingyan Li, S. Narayanan, and Radha Poovendran, Tracing Medical Images using Multi-band Watermarks, Proceedings of EMBC, Vol. 2, pp. 3233-36, San Francisco, CA, September 2004.
+http://www.ee.washington.edu/research/nsl/papers/EMBC-04.pdf
+Loukas Lazos, Javier Salido, Radha Poovendran, VP3: Using Vertex Path and Power Proximity for Energy Efficient Key Distribution, Invited Paper in IEEE VTC, 2004, Los Angeles, CA.
+http://www.ee.washington.edu/research/nsl/papers/VTC-2004.pdf
+Loukas Lazos and Radha Poovendran, Cross-Layer Design for Energy-Efficient Secure Multicast Communications	in Ad Hoc Networks, IEEE International Conference on Communications (ICC), June 20-24, 2004, Paris, France
+http://www.ee.washington.edu/research/nsl/papers/icc-2004.pdf
+Intae Kang and Radha Poovendran, Design Issues on Broadcast Routing Algorithms using Realistic Cost-Effective Smart Antenna Models, IEEE Vehicular Technology Conference (VTC), May 17-19, 2004, Milan, Italy
+http://www.ee.washington.edu/research/nsl/papers/VTC-04.pdf
+Intae Kang and Radha Poovendran, COBRA: Center-Oriented Broadcast Routing Algorithms for Wireless Adhoc Networks, IEEE Wireless Communications and Networking Conference (WCNC), March 21-25, 2004, Atlanta, GA
+http://www.ee.washington.edu/research/nsl/papers/WCNC-2004.pdf
+ 
+2003
+
+Mingyan Li and Radha Poovendran, Broadcast Enforced Threshold Schemes with Disenrollment, Selected Areas in Cryptography (SAC 2003), August 14-15, 2003, Ottawa, Canada   PRESENTATION SLIDES
+http://www.ee.washington.edu/research/nsl/papers/SAC-03.pdf
+Intae Kang and Radha Poovendran, A Comparison of Power-Efficient Broadcast Routing Algorithms, IEEE Global Communications Conference (Globecom), Dec 1-5, 2003, San Francisco, CA
+http://www.ee.washington.edu/research/nsl/papers/GLOBECOM-03.pdf
+Intae Kang and Radha Poovendran, A Novel Power-Efficient Broadcast Routing Algorithm Exploiting Broadcast Efficiency with Omnidirectional and Directional Antenna, IEEE Vehicular Technology Conference (VTC), Oct 6-9, 2003, Orlando, FL
+http://www.ee.washington.edu/research/nsl/papers/VTC-03.pdf
+W. Trappe, J. Song, R. Poovendran, and K. J. R. Liu, Key Management and Distribution for Secure Multimedia Multicast, IEEE Transactions on Multimedia, Dec 2003.
+http://www.ee.washington.edu/research/nsl/papers/IEEEmultimedia-03.pdf
+Intae Kang and Radha Poovendran, S-GPBE: A Power-Efficient Broadcast Routing Algorithm Using Sectored Antenna, 3rd IASTED International Conference on Wireless and Optical Communications (WOC), July 14-16, 2003, Alberta, Canada.
+http://www.ee.washington.edu/research/nsl/papers/woc2003.pdf
+Intae Kang and Radha Poovendran, Maximizing Static Network Lifetime of Wireless Broadcast Adhoc Networks, IEEE ICC, May 11-15, 2003, Anchorage, Alaska.
+http://www.ee.washington.edu/research/nsl/papers/ICC-03.pdf
+Loukas Lazos and Radha Poovendran, Energy-Aware Secure Multicast Communication in Ad-hoc Networks Using Geographic Location Information, IEEE International Conference on Acoustics Speech and Signal Processing, April 6-10, 2003, Hong Kong, China
+http://www.ee.washington.edu/research/nsl/papers/ICASSP-03.pdf
+Mingyan Li and Radha Poovendran, A Note on Threshold Schemes with Disenrollment, 37th annual Conference on Information Sciences and Systems (CISS), March 12-14, 2003, John Hopkins University, Baltimore, MD    PRESENTATION SLIDES
+http://www.ee.washington.edu/research/nsl/papers/CISS-03.pdf
+Intae Kang and Radha Poovendran, Power-Efficient Broadcast Routing in Adhoc Networks Using Directional Antennas: Technology Dependence and Convergence Issues, UWEETR-2003-0015, UWEE Technical Report Series.
+https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2003-0015.html
+Mingyan Li and Radha Poovendran, Broadcast Enforced Threshold Schemes with Disenrollment, UWEETR-2003-0014, UWEE Technical Report Series.
+https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2003-0014.html
+Loukas Lazos and Radha Poovendran, Energy-Aware Secure Multicast Communication In Wireless Ad-Hoc Networks, UWEETR-2003-0013, UWEE Technical Report Series.
+https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2003-0013.html
+Loukas Lazos and Radha Poovendran, Location-Aware Secure Wireless Multicast in Ad-Hoc Networks under Heterogeneous Pathloss, UWEETR-2003-0012, UWEE Technical Report Series.
+https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2003-0012.html
+Intae Kang and Radha Poovendran, Maximizing Static Network Lifetime of Broadcast over Wireless Stationary Adhoc Networks, UWEETR-2003-0002, UWEE Technical Report Series.
+https://www.ee.washington.edu/techsite/papers/refer/UWEETR-2003-0002.html
+ 
+2002
+
+Loukas Lazos and Radha Poovendran, Secure Broadcast in Energy-Aware Wireless Sensor Networks, (Invited Paper), IEEE International Symposium on Advances in Wireless Communications (ISWC''02), September 23-24, 2002, Victoria, BC, Canada.
+http://www.ee.washington.edu/research/nsl/papers/ISWC-02.pdf
+Intae Kang and R. Poovendran, On the lifetime extension and Route Stabilization of Energy-Efficient Broadcast Routing over MANET, INC2002, June 2002, London, UK.
+http://www.ee.washington.edu/research/nsl/papers/INC-02.pdf
+Intae Kang and R. Poovendran, On the lifetime extension of Energy-Constrained Multihop Broadcast Networks, WCCI 2002, May 2002, Hawaii, USA
+http://www.ee.washington.edu/research/nsl/papers/WCCI-02.pdf
+M. Li, R. Poovendran, and C. Berenstein, Design of Secure Multicast Key Management Schemes with Communication Budget Constraint, IEEE Communication Letters, March 2002.
+http://www.ee.washington.edu/research/nsl/papers/IEEEcommlet-02.pdf
+R. Sampigethaya, M.Y. Li, R. Poovendran, and C. Berenstein, Centralized Key Management and Distribution for Dynamic Multicast Groups: Scalability Issues, Internet Draft, Apr2002.
+http://www.ee.washington.edu/research/nsl/papers/draft-radha-msec-ckmd-01.txt
+ 
+2001
+
+R. Poovendran and J. Baras, An Information Theoretic Approach for Design and Analysis of Rooted-Tree-Based Multicast Key Management Schemes, IEEE Trans. Information Theory, Vol. 47, pp. 2824-2834, November 2001.
+http://www.ee.washington.edu/research/nsl/papers/IEEEinfth-01.pdf
+Mingyan Li and R. Poovendran, Explicit Design of Sub-Linear Trees with pre specified key update communication bounds, presented at the 51st Internet Research Task Force (IRTF) Secure Multicast Group (SMUG) meeting, August 7th, 2001, London, UK.
+http://www.ee.washington.edu/research/nsl/papers/IRTF51-01.pdf
+Mingyan Li, R. Poovendran, and C. Berenstein, Optimization of Key Storage for Secure Multicast, 35th annual Conference on Information Sciences and Systems (CISS), March, 2001, John Hopkins University, Baltimore, MD.
+http://www.ee.washington.edu/research/nsl/papers/CISS-01.pdf
+W. Trappe, J. Song, R. Poovendran, and K. J. R. Liu, Key Distribution for secure multimedia multicast via data embedding, presented at IEEE ICASSP 2001.
+http://www.ee.washington.edu/research/nsl/papers/ICASSP-01.pdf
+J. Song, R. Poovendran, W. Trappe, and K. J. R. Liu, Dynamic Key Distribution using Embedded Source Coding for Secure Multimedia Multicast, SPIE Security for Multimedia, Feb. 2001, San Diego.
+NO URL

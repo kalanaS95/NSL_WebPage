@@ -1,0 +1,150 @@
+2018
+
+A. Clark, Q. Hou, L. Bushnell, and R. Poovendran, " Maximizing the Smallest Eigenvalue of a Symmetric Matrix: A Submodular Optimization Approach, " To appear in Elsevier Automatica.
+http://www.ee.washington.edu/research/nsl/papers/Andrew_autosam_2018.pdf
+
+Z. Liu, L. Yao, A. Clark, L. Bushnell, D. Kirschen and R. Poovendran, " Minimal Input and Output Selection for Stability of Systems with Uncertainties, " in IEEE Transactions on Automatic Control (TAC), 2018 (accepted).
+http://www.ee.washington.edu/research/nsl/papers/Zhipeng_TAC_2018.pdf
+
+H. Hosseini, B. Xiao, M. Jaiswal and R. Poovendran, " Assessing Shape Bias Property of Convolutional Neural Networks, " In IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, Salt Lake City, Utah, June 2018.
+http://www.ee.washington.edu/research/nsl/papers/Assessing_Shape_Bias.pdf
+
+H. Hosseini and R. Poovendran, " Semantic Adversarial Examples, " In IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Workshops, Salt Lake City, Utah, June 2018.
+http://www.ee.washington.edu/research/nsl/papers/Semantic_Adversarial_Examples.pdf
+
+G. Yang, H. Hosseini, D. Sahabandu, A. Clark, J. Hespanha, and R. Poovendran, " Modeling and Mitigating the Coremelt Attack, " in the American Control Conference (ACC), Milwaukee, USA, June 2018.
+http://www.ee.washington.edu/research/nsl/papers/Coremelt.pdf
+
+S. Sagong, X. Ying, A. Clark, L. Bushnell and R. Poovendran, " Cloaking the Clock: Emulating Clock Skew in Controller Area Networks, " in International Conference on Cyber-Physical Systems (ICCPS), IEEE/ACM CPS Week, Porto, April 2018.
+http://www.ee.washington.edu/research/nsl/papers/sang_iccps2018.pdf
+
+
+2017
+
+A. Clark, B. Alomair, L. Bushnell, and R. Poovendran, " Submodularity in Input Node Selection for Networked Linear Systems: Efficient algorithms for performance and controllability, " IEEE Control Systems Magazine, vol. 37, no. 6, pp. 52-73, Dec. 2017.
+http://www.ee.washington.edu/research/nsl/papers/Submod_selection.pdf
+
+H. Hosseini, B. Xiao, M. Jaiswal and R. Poovendran, " On the Limitation of Convolutional Neural Networks in Recognizing Negative Images, " in 16th IEEE International Conference on Machine Learning and Applications (ICMLA), 2017.
+http://www.ee.washington.edu/research/nsl/papers/hossein_negative2017.pdf
+
+H. Hosseini, B. Xiao and R. Poovendran, "Google''s Cloud Vision API Is Not Robust To Noise, " in 16th IEEE International Conference on Machine Learning and Applications (ICMLA), 2017.
+http://www.ee.washington.edu/research/nsl/papers/hossein_noise2017.pdf
+
+H. Hosseini, B. Xiao, A. Clark and R. Poovendran, " Attacking Automatic Video Analysis Algorithms: A Case Study of Google Cloud Video Intelligence API, " in ACM CCS Workshop on Multimedia Privacy and Security, Dallas, Texas, 2017.
+http://www.ee.washington.edu/research/nsl/papers/hossein_ccs2017.pdf
+
+
+H. Hosseini, B. Xiao and R. Poovendran, " Deceiving Google''s Cloud Video Intelligence API Built for Summarizing Videos, " in the CVPR Workshop on The Bright and Dark Sides of Computer Vision, Honolulu, Hawaii, July 2017.
+http://www.ee.washington.edu/research/nsl/papers/CVPR_2017.pdf
+
+
+H. Hosseini, S. Kannan, B. Zhang and R. Poovendran, " Deceiving Google''s Perspective API Built for Detecting Toxic Comments," in arXiv Technical Report.
+http://www.ee.washington.edu/research/nsl/papers/view.pdf
+
+
+R. Spolaor, L. Abudahi, V. Moonsamy, M. Conti and R. Poovendran, " No Free Charge Theorem: a Covert Channel via USB Charging Cable on Mobile Devices, " in the International Conference on Applied Cryptography and Network Security (ACNS), Kanazawa, Japan, July 2017.
+http://www.ee.washington.edu/research/nsl/papers/ACNS_2017.pdf
+
+
+X. Ying, R. Poovendran, and S. Roy, " Detecting LTE-U Duty Cycling Misbehavior for Fair Sharing with Wi-Fi in Shared Bands, " in IEEE PIMRC, Montreal, QC, Canada, Oct 2017.
+http://www.ee.washington.edu/research/nsl/papers/ying_pimrc2017.pdf
+
+
+A. Clark, B. Alomair, L. Bushnell, and R. Poovendran, "  Towards Synchronization in Networks with Nonlinear Dynamics: A Submodular Optimization Framework ," in IEEE Transactions on Automatic Control (TAC),  vol. PP, no. 99, pp. 1-1, March 2017
+http://www.ee.washington.edu/research/nsl/papers/TAC2016.pdf
+
+A. Clark, Q. Hou, L. Bushnell, and R. Poovendran, "A Submodular Optimization Approach to Leader-Follower Consensus in Networks with Negative Edges  , " in the American Control Conference (ACC), Seattle, USA, May 2017.
+http://www.ee.washington.edu/research/nsl/papers/ACC_2017.pdf
+
+Z. Liu, Y. Long, A. Clark, P. Lee, L. Bushnell, D. Kirschen, and R. Poovendran " Minimal Input Selection for Robust Control,  "  in IEEE Conference on Decision and Control (CDC), Melbourne, Australia, Dec 2017.
+http://www.ee.washington.edu/research/nsl/papers/cdc2017zhipeng.pdf
+
+Z. Liu, A. Clark, P. Lee, L. Bushnell, D. Kirschen, and R. Poovendran, " Submodular Optimization for Voltage Control  ," in IEEE Transactions on Power Systems, vol. PP, no. 99, pp. 1-1, April 2017.
+http://www.ee.washington.edu/research/nsl/papers/TPS_2016.pdf
+
+Z. Liu, A. Clark, P. Lee, L. Bushnell, D. Kirschen, and R. Poovendran, " A Submodular Optimization Approach to Controlled Islanding under Cascading Failure ," in International Conference on Cyber-Physical Systems (ICCPS), IEEE/ACM CPS Week, Pittsburgh, April 2017.
+http://www.ee.washington.edu/research/nsl/papers/ICCPS2017.pdf
+
+2016
+
+M. Ambrosin, M. Conti, F.D. Gaspari and R. Poovendran. " LineSwitch: Tackling Control Plane Saturation Attacks in Software-Defined Networking," in IEEE/ACM Transactions on Networking, vol. 25, no. 2, pp. 1206-1219, April 2017.
+http://www.ee.washington.edu/research/nsl/papers/TON.pdf
+
+M. Ambrosin, H. Hosseini, K. Mandal, M. Conti, and R. Poovendran. " Despicable Me(ter): Anonymous and Fine-grained Metering Data Reporting with Dishonest Meters," in IEEE Conference on Communications and Network Security (CNS), Philadelphia, USA, 2016.
+http://www.ee.washington.edu/research/nsl/papers/despicable.pdf
+
+K. Mandal, B. Alomair and R. Poovendran " Secure Error-Tolerant Graph Matching Protocols, " In International Conference on Cryptology and Network Security (CANS) , Milan, Italy, Nov 2016.
+http://www.ee.washington.edu/research/nsl/papers/cans2016.pdf
+
+
+H. Hosseini, S. Kannan, B. Zhang and R. Poovendran. " Learning Temporal Dependence from Time-Series Data with Latent Variables, " in IEEE International Conference on Data Science and Advanced Analytics (DSAA), Montreal, Canada, Oct 2016.
+http://www.ee.washington.edu/research/nsl/papers/dsaa.pdf
+
+P. Lee, A. Clark, B. Alomair, L. Bushnell, and R. Poovendran.  " Adaptive Mitigation of Multi-Virus Propagation: A Passivity-Based Approach , "  in IEEE Transactions on Control of Network Systems, vol. PP, no. 99, pp. 1-1, Dec 2016.
+http://www.ee.washington.edu/research/nsl/papers/TCNS_LEE.pdf
+
+P. Lee, A. Clark, B. Alomair, L. Bushnell, and R. Poovendran.  " Distributed Adaptive Patching Strategies against Malware Propagation: A Passivity Approach, "  in IEEE Conference on Decision and Control (CDC), Las Vegas, Dec 2016.
+http://www.ee.washington.edu/research/nsl/papers/cdc2016pl.pdf
+
+X. Ying, S. Roy, and R. Poovendran. "  Pricing Mechanism for Quality-Based Radio Mapping via Crowdsourcing,  " in IEEE GLOBECOM, Washington DC, Dec 2016.
+http://www.ee.washington.edu/research/nsl/papers/ying2016global.pdf
+
+
+A. Clark, B. Alomair, L. Bushnell, and R. Poovendran. "  Input Selection for Performance and Controllability of Structured Linear Descriptor Systems ," in SIAM Journal on Control and Optimization (SICON), 55:1, 457-485, 2017.
+http://www.ee.washington.edu/research/nsl/papers/SIAM_CLARK.pdf
+
+A. Clark, B. Alomair, L. Bushnell, and R. Poovendran. " Submodularity in Dynamics and Control of Networked Systems " Springer, ISBN: 978-3-319-26975-7
+no url
+
+Z. Liu, A. Clark, P. Lee, L. Bushnell, D. Kirschen, and R. Poovendran. " MinGen: Minimal Generator Set Selection for Small Signal Stability in Power Systems: A Submodular Framework,  " in IEEE Conference on Decision and Control (CDC), Las Vegas, Dec 2016.
+http://www.ee.washington.edu/research/nsl/papers/cdc2016zhipeng.pdf
+
+Z. Liu, A. Clark, P. Lee, L. Bushnell, D. Kirschen, and R. Poovendran. " Towards Scalable Voltage Control in Smart Grid: A Submodular Optimization Approach, " in International Conference on Cyber-Physical Systems (ICCPS), IEEE/ACM CPS Week, Vienna, Austria, April, 2016.
+http://www.ee.washington.edu/research/nsl/papers/liu_iccps_2015.pdf
+
+
+2015
+
+M. Ambrosin, H. Hosseini, K. Mandal, M. Conti, and R. Poovendran. " Verifiable and Privacy-preserving Fine-Grained Data-Collection for Smart Metering, " in IEEE Workshop on Security and Privacy in Cybermatics (SPiCy), Florence, Italy, 2015.
+http://www.ee.washington.edu/research/nsl/papers/moreno_2015_spicy.pdf
+
+P. Lee, A. Clark, B. Alomair, L. Bushnell, and R. Poovendran.  "Passivity-Based Distributed Strategies for Stochastic Stackelberg Security Games,"  in IEEE Conference on Game and Decision Theory for Security (GameSec), London, UK, Nov 2015.
+http://www.ee.washington.edu/research/nsl/papers/Gamesec2015.pdf
+
+A. Clark, K. Sun, L. Bushnell, and R. Poovendran.  "A Game-Theoretic Approach to IP Address Randomization in Decoy-Based Cyber Defense , "  in IEEE Conference on Game and Decision Theory for Security (GameSec), London, UK, Nov 2015.
+http://www.ee.washington.edu/research/nsl/papers/Poovendran_GameSec_2015.pdf
+
+P. Lee, A. Clark, B. Alomair, L. Bushnell, and R. Poovendran.  " A Host Takeover Game Model for Competing Malware, "  in IEEE Conference on Decision and Control (CDC), Osaka, Japan, Dec 2015.
+http://www.ee.washington.edu/research/nsl/papers/lee_cdc_2015.pdf
+
+A. Clark, B. Alomair, L. Bushnell, and R. Poovendran.  "Input Selection for Disturbance Rejection in Networked Cyber-Physical Systems, "  in IEEE Conference on Decision and Control (CDC), Osaka, Japan, Dec 2015.
+http://www.ee.washington.edu/research/nsl/papers/Clark_CDC_2015_disturbance.pdf
+
+X. Ying, S. Roy, and R. Poovendran. "Incentivizing Crowdsourcing for Radio Environment Mapping with Statistical Interpolation, " in Dynamic Spectrum Access Networks (DySPAN), Stockholm, Sweden, Sep 2015.
+http://www.ee.washington.edu/research/nsl/papers/ying_2015_dyspan.pdf
+
+A. Clark, B. Alomair, L. Bushnell, and R. Poovendran.  " Scalable and Distributed Submodular Maximization with Matroid Constraints, "  In the 13th International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt), Mumbai, May 2015.
+http://www.ee.washington.edu/research/nsl/papers/Poovendran_WiOpt_2015_camera_ready.pdf
+T. Pham and L. Bushnell. " Two-Degree-of-Freedom Damping Control of Driveline Oscillations Caused by Tip-In Maneuver," in the American Control Conference, Chicago, July 2015.
+http://www.ee.washington.edu/research/nsl/papers/truc_acc_2015.pdf
+B. Howard and  L. Bushnell. "Enhancing Linear System Theory Curriculum with an Inverted Pendulum Robot, " in the American Control Conference, Chicago, July 2015.
+http://www.ee.washington.edu/research/nsl/papers/brian_acc_2015.pdf
+P. Lee, A. Clark, B. Alomair,  L. Bushnell and R. Poovendran. "Jamming-Based Adversarial Control of Network Flow Allocation: A Passivity Approach," in the American Control Conference, Chicago, July 2015.
+http://www.ee.washington.edu/research/nsl/papers/lee_acc_2015_jamming.pdf
+P. Lee, A. Clark, L. Bushnell and R. Poovendran. "Passivity Framework for Composition and Mitigation of Multi-Virus Propagation in Networked Systems," in the American Control Conference, Chicago, July 2015.
+http://www.ee.washington.edu/research/nsl/papers/lee_acc_2015.pdf
+M. Ambrosin, M. Conti, F.D. Gaspari and R. Poovendran. "LineSwitch: Efficiently Managing Switch Flow in Software-Defined Networking while Effectively Tackling DoS Attacks," in the 10th ACM Symposium on Information, Computer and Communications Security, Singapore, April 2015.
+http://www.ee.washington.edu/research/nsl/papers/ambrosin_asiaccs170.pdf
+
+2014
+
+A. Clark, B. Alomair, L. Bushnell, and R. Poovendran. "Distributed Online Submodular Maximization in Resource-Constrained Networks," in the 12th IEEE International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks (WiOpt), Hammamet, Tunisia, May 2014. Best Student Paper Award.
+http://www.ee.washington.edu/research/nsl/papers/WiOpt-14.pdf
+A. Clark, B. Alomair, L. Bushnell, and R. Poovendran. "Minimizing Convergence Error in Multi-Agent Systems via Leader Selection: A Supermodular Optimization Approach," in IEEE Transactions on Automatic Control (TAC), Vol. 59, No. 6, June 2014.
+http://www.ee.washington.edu/research/nsl/papers/TAC-June-14.pdf
+P. Lee, A. Clark, L. Bushnell, and R. Poovendran. "A Passivity Framework for Modeling and Mitigating Wormhole Attacks on Networked Control Systems," in IEEE Transactions on Automatic Control (TAC), Special Issue on Control of Cyber Physical Systems, 2014.
+http://www.ee.washington.edu/research/nsl/papers/TAC_CPS.pdf
+P. Lee, O. Saleh, B. Alomair, L. Bushnell, and R. Poovendran. "Graph-Based Verification and Misbehavior Detection in Multi-Agent Networks," in the 3rd ACM Conference on High Confidence Networked Systems (HiCONS), Berlin, Germany, April 2014.
+http://www.ee.washington.edu/research/nsl/papers/HICONS-14.pdf
+A. Clark, L. Bushnell, and R. Poovendran. "A Supermodular Optimization Framework for Leader Selection under Link Noise in Linear Multi-Agent Systems," in IEEE Transactions on Automatic Control (TAC), Vol. 59, No. 2, pp. 283-297, February 2014.
+http://www.ee.washington.edu/research/nsl/papers/TAC-13.pdf

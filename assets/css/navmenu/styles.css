@@ -57,7 +57,8 @@ nav h1 {
 
 .logo {
     float:left;
-	width: 300px;
+    width: 300px;
+    margin-top:-23px;
     
 }
 
@@ -78,10 +79,6 @@ nav h1 {
     transition:all .3s
 }
 
-.nav-top .logo {
-    margin-top:-23px;
-	margin-left: -160px;
-}
 
 .nav-top .search {
     float:right;
@@ -174,16 +171,11 @@ nav h1 {
 
 .main-nav ul.nav > li {
     vertical-align:top;
-    border-left:1px solid #0d3948;
-        
-}
-.main-nav ul.nav > li:last-child {
-    border-right:1px solid #0d3948;
+
         
 }
 
 .main-nav ul.nav > li > a {
-    border-top:2px solid #000;
     height:80px;
     line-height:80px;
     font-size:16px;
@@ -264,17 +256,28 @@ nav.small .minilogo {
     left:0
 }
 
+
 @media (max-width: 992px) {
     nav.small .minilogo {
-        left:10px
+        left:10px;
+        display: none;
+    }
+    nav.small ul.nav {
+        padding-left: 0;
     }
 }
 
 @media (max-width: 767px) {
+    .main-nav ul.nav li a {
+        height: 50px;
+        line-height: 50px;
+    }
+    .nav_bar_en {
+        padding-bottom: 100px !important;
+    }
     nav {
         height:81px!important
     }
-
     nav .nav-top {
         padding-top:20px;
         height:80px
@@ -298,5 +301,13 @@ nav.small .minilogo {
 
     nav.small .minilogo {
         display:none
+    }
+
+}
+
+@media (max-width: 400px) {
+    .logo {
+        margin-top: -10px;
+        width: 200px;
     }
 }
