@@ -1,4 +1,5 @@
 
+
 getNews_4();
 
 //GET request to get all the links from the database

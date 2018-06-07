@@ -1,5 +1,11 @@
 "use strict";
 
+var typed = new Typed('.intro-text', {
+	strings: ["Welcome to Network Security Lab", "Welcome to NSL @ UW"],
+    typeSpeed: 60,
+    backDelay: 500,
+    startDelay: 1000,
+});
 
 jQuery(document).ready(function ($) {
 
@@ -76,6 +82,9 @@ jQuery(document).ready(function ($) {
         autoplayHoverPause: true
 
     });
+    
+
+  
 
 
 

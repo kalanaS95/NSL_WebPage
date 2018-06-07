@@ -248,7 +248,9 @@ ul{
 .overlay {
     background-color: rgba(0, 0, 0, 0.3);
     width: 100%;
-    height: 750px;
+    padding-top: 80px;
+    margin-bottom: -36px;
+    height: 850px;
 }
 .callus_overlay {
     background-color: rgba(0, 0, 0, 0.80);
@@ -280,6 +282,116 @@ ul{
 }
 .fluid-blocks-col-right {
     padding: 70px 80px 0 40px;
+}
+.carousel {
+    height: 734px;
+    overflow: hidden;
+}
+.carousel .carousel-indicators{
+    display: none;
+}
+.intro-block {
+    position: absolute;
+    z-index: 100;
+    top:584px;
+    width: 100%;
+    text-shadow: 0px 0px 6px black;
+
+}
+.intro-block h1{
+    text-align: right;
+    padding-right: 100px;
+}
+.intro-text{
+    display: inline;
+}
+.typed-cursor {
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+}
+@-webkit-keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+}
+@-moz-keyframes blink {
+    0% { opacity: 1; }
+    50% { opacity: 0; }
+    100% { opacity: 1; }
+}
+.carousel-control {
+    z-index: 200;
+}
+@media (max-width: 1158px) {
+    .overlay {
+        height: 650px;
+    }
+    .carousel {
+        height: 534px;
+    }
+    .intro-block {
+        top:384px;
+    }
+}
+@media (max-width: 800px) {
+    .overlay {
+        height: 550px;
+    }
+    .carousel {
+        height: 434px;
+    }
+    .intro-block {
+        top:324px;
+    }
+    .intro-block h1 {
+        padding-right: 50px;
+    }
+}
+@media (max-width: 666px) {
+    .overlay {
+        height: 450px;
+    }
+    .carousel {
+        height: 334px;
+    }
+    .intro-block {
+        top:234px;
+    }
+    .intro-block h1{
+        font-size: 30px;
+    }
+}
+@media (max-width: 510px) {
+    .overlay {
+        height: 320px;
+    }
+    .carousel {
+        height: 204px;
+    }
+
+    .intro-block {
+        top:124px;
+    }
+    .intro-block h1{
+        font-size: 16px;
+        text-align: center;
+        padding-right: 0px;
+    }
+    
+}
+.carousel-inner .item img{
+    width: 100%;
+    height: auto;
+}
+.carousel-inner {
+    overflow-y: hidden;
 }
 /*
 Separator
@@ -563,8 +675,8 @@ input::-ms-input-placeholder {
 
 /*home section*/
 .home{
-    background: url(../images/homebg.jpg) no-repeat 100% 100%;
-    background-size: cover;
+    /* background: url(../images/homebg.jpg) no-repeat 100% 100%;
+    background-size: cover; */
 }
 
 .home .main_home{
