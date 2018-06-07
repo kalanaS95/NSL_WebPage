@@ -52,8 +52,6 @@ function getNews_4()
 	
 			}else
 			{
-				
-				
 				var first_ = "<div class=\"single_news_right_content\">" + "<div class=\"row\">" + "<div class=\"col-sm-3 col-xs-3 no-padding\">"+ "<div class=\"single_right_img\">";
 				//if image is not null use the given image other wise use the default one
 				var images__="";
@@ -62,9 +60,9 @@ function getNews_4()
 				else
 					images__= "<img src=\"assets/images/default_news.png\" alt=\"\" /> </div> </div>";
 				
-				var third_ = "<div class=\"col-sm-8 col-xs-8 no-padding\">"+ "<div class=\"single_right_content\">";
+				var third_ = "<div class=\"col-sm-9 col-xs-9 no-padding\">"+ "<div class=\"single_right_content\">";
 				
-				var four_ = "<p class=\"subtitle\">" + title + "<br/><br/></p>";
+				var four_ = "<p class=\"subtitle\">" + title + "</p>";
 				var five_ = "<a class=\"news_icon\" href=\"\"><i class=\"fa fa-calendar\"></i>" + date + "</a> </div> </div> </div> </div>";
 	
 				var final_ = first_+images__+third_+four_+five_;

@@ -57,10 +57,9 @@ a span {
     box-sizing: border-box;
     /*    direction: rtl;*/
 }
-p {
+/* p {
     margin: 0 0 15px;
-
-}
+} */
 a{
     font-family: 'latoregular';
 }
@@ -138,7 +137,7 @@ h2 {
     font-size:2.5rem;
     line-height: 3rem;
     font-family: 'latobold';
-    margin-bottom: 35px;
+    
 }
 h3 {
     font-size:1.875rem;
@@ -162,8 +161,8 @@ h6 {
     margin-bottom: .9rem;
 }
 p {
-    line-height: 1.875rem;
-    font-size: 1.125rem;
+    line-height: 1.975rem;
+    font-size: 1.3rem;
     font-family: 'latolight'; 
 }
 p:last-child {
@@ -211,8 +210,8 @@ p:last-child {
 Section
 */
 .sections {
-    padding-top:85px;
-    padding-bottom: 105px;
+    padding-top: 65px;
+    padding-bottom: 65px;
     overflow: hidden;
 }
 .sections.footer {
@@ -611,7 +610,7 @@ input::-ms-input-placeholder {
 /*service section css*/
 
 .head_title{
-    margin-bottom:110px;
+    margin-bottom:50px;
 }
 .head_title h2{
 
@@ -622,7 +621,7 @@ input::-ms-input-placeholder {
 
 .history_border_raund{
     position: absolute;
-    left: 43%;
+    width:100%;
     top: -36px;
 }
 
@@ -630,7 +629,9 @@ input::-ms-input-placeholder {
     position: relative;
     background: #F8F9FB;
 }
-.main_history_area{}
+.main_history_area{
+    padding-bottom: 0px;
+}
 
 /*
 .single_service{
@@ -666,11 +667,6 @@ input::-ms-input-placeholder {
     overflow: hidden;
     background-size: auto;
 }
-.main_mission{
-    
-}
-.mission_title{}
-
 
 
 .mission_title h1{
@@ -695,7 +691,10 @@ input::-ms-input-placeholder {
     font-family: 'latolight';
 	margin-bottom:50px;
 }
-.mission_content{}
+.main_mission_area{
+    text-shadow: 0px 0px 10px black;
+}
+
 .missionborder{
     position: relative;
 }
@@ -710,9 +709,9 @@ input::-ms-input-placeholder {
 }
 
 .mission_content ul li{
-    margin-bottom: 90px;
-    max-width: 70%;
-    line-height: 30px;
+    margin-bottom: 50px;
+    max-width: 90%;
+    margin-left: 5px;
 }
 .mission_content ul li i{
     font-size: 40px;
@@ -791,7 +790,7 @@ a i{
 }
 
 .single_news_right_content{
-    margin-bottom: 86px;
+    margin-bottom: 30px;
     max-width: 98%;
     float: right;
 }
@@ -802,8 +801,12 @@ a i{
 .single_news_right_content .single_right_content{
     background: #fff;
     padding: 10px 15px 10px 25px;
+    height: 112px;
 }
 
+.single_news_right_content .single_right_content p{
+    height: 60px;
+}
 .single_news_right_content .single_icon_area .single_icon_content{
     background: #ab987a;
     color:#fff;

@@ -27,7 +27,7 @@ function getResearchData()
 		{
 			//making the title for corresponding research areas
 			
-			container.innerHTML +=  "<div class=\"ResearchTitleSection\" id=\"ResearchTitleSection_\">"+ "<div class=\"Titles\" id=\"Titles_\">" + "Our Contributions in " +listofTypes[loop] + "</div></div>";
+			container.innerHTML +=  "<div class=\"ResearchTitleSection\" id=\"ResearchTitleSection_\">"+ "<div class=\"container\">" + "<div class=\"Titles\" id=\"Titles_\">" + "Our Contributions in " +listofTypes[loop] + "</div></div></div>";
 			var wrapper = "<div class= \"" +listofTypes[loop]+ "\""+ "id=\""+listofTypes[loop]+"_\">";
 			var post="";
 			var temp=0;
@@ -44,14 +44,16 @@ function getResearchData()
 					{
 						temp++;
 						post += "<div class=\"post\"" + "id=\"post_" +temp+"\">"; //creating post wrapper
-						post+= "<div class=\"Titles\" id=\"researchTitle_\">"+name+"</div>"; //adding tilte of the research 
-						post+= "<div class=\"description\" id=\"postDescription_\">"+description+"</div></div>"; //adding description of the research 
+						post += "<div class=\"container\">" //create container 
+						post += "<div class=\"Titles\" id=\"researchTitle_\">"+name+"</div>"; //adding tilte of the research 
+						post += "<div class=\"description\" id=\"postDescription_\">"+description+"</div></div></div>"; //adding description of the research 
 					}
 					else
 					{
 						post += "<div class=\"post\" id=\"post_odd\">";
+						post += "<div class=\"container\">" //create container 
 						post+= "<div class=\"Titles\" id=\"researchTitle_odd\">"+name+"</div>"; //adding tilte of the research 
-						post+= "<div class=\"description\" id=\"postDescription_odd\">"+description+"</div></div>"; //adding description of the research 
+						post+= "<div class=\"description\" id=\"postDescription_odd\">"+description+"</div></div></div>"; //adding description of the research 
 					}
 
 					runningTotal++;
@@ -59,9 +61,10 @@ function getResearchData()
 			}
 			
 			console.log("NEW - " + temp +"x="+x);
-			
-			container.innerHTML+=wrapper+post+"</div>" + "<div id=\"arrowDown_\"><img id=\"upArrow\"src=\"assets/images/downicon.png\"></div>";
-			
+			container.innerHTML+=wrapper+post;
+			if (loop != listofTypes.length - 1){
+				container.innerHTML+="</div>" + "<div id=\"arrowDown_\"><img id=\"upArrow\"src=\"assets/images/downicon.png\"></div>";
+			}
 		}
 			
 

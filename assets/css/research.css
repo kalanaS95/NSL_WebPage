@@ -8,13 +8,15 @@
 {
 
 	background-image:url("../images/research_Bk.jpg");
-	min-height:400px;
-
+	margin-top: -100px;
+	padding-top: 100px;
+	padding-bottom: 50px;
 }
 
 #researchTitle_
 {
 	padding-top:20px;
+	text-shadow: 0 0 5px black;
 	color:#bdc3c7;
 }
 
@@ -27,8 +29,7 @@
 #researchDescription_
 {
 	margin-top:20px;
-	margin-left:15%;
-	margin-right:15%;
+	text-shadow: 0 0 5px black;
 	color:#bdc3c7;
 	padding-bottom:30px;
 }
@@ -42,9 +43,9 @@
 	text-align:center;
 }
 
-.ResearchTitleSection
+.ResearchTitleSection .container
 {
-	height:400px;
+	height:250px;
 	display: table; 
 	width:100%;
 	text-align: center;
@@ -66,24 +67,25 @@
 {
 
 	text-align:center;
-	font-size:50px;
+	font-size:40px;
 	font-weight: bold;
 	margin-bottom:10px;
-	margin-left:15%;
-	margin-right:15%;
+	/* margin-left:15%;
+	margin-right:15%; */
 }
 
 .description
 {
-	font-size:25px;
+	font-size:20px;
 }
 
 #postDescription_
 {
+	text-shadow: 0 0 5px black;
 	padding-bottom:50px;
 	margin-top:20px;
-	margin-left:15%;
-	margin-right:15%;
+	/* margin-left:15%;
+	margin-right:15%; */
 	color:#bdc3c7;
 }
 
@@ -91,14 +93,15 @@
 {
 	padding-bottom:30px;
 	margin-top:20px;
-	margin-left:15%;
-	margin-right:15%;
+	/* margin-left:15%;
+	margin-right:15%; */
 	color:#2c3e50;
 }
 
 .post
 {
-	min-height:500px;
+	padding-top: 25px;
+	padding-bottom: 25px;
 }
 
 #post_1
@@ -131,4 +134,17 @@
     .Titles {
         width: 100%;
     }
+}
+
+@media (max-width: 992px) {
+	.Titles
+	{
+		font-size:25px;
+
+	}
+
+	.description
+	{
+		font-size:16px;
+	}
 }
