@@ -27,8 +27,8 @@ function gettools()
             var titleWrapper = "<div class=\"panel-heading\" >";
             var finalHtmlString = "";
             if (toolImage != null) {
-                var descriptionWrapper = "<div class=\"panel-body\"><div class=\"row\"><div class=\"col-xs-6 col-md-9\">";
-                var imageWrapperLeft = "<div class=\"col-xs-6 col-md-3\"><img src=\"";
+                var descriptionWrapper = "<div class=\"panel-body\"><div class=\"row\"><div class=\"col-xs-12 col-sm-8 col-md-9\">";
+                var imageWrapperLeft = "<div class=\"col-xs-12 col-sm-4 col-md-3\"><img src=\"";
                 var imageWrapperRight = "\" alt=\"image\"></div>";
                 finalHtmlString = wrapperBegin + titleWrapper + toolTitle + "</div>" + descriptionWrapper + toolDescription + "</div>" + 
                                   imageWrapperLeft + toolImage + imageWrapperRight + "</div> </div> </div>";
