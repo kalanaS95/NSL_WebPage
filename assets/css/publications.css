@@ -6,7 +6,8 @@
 html, body
 {
 	height:100%;
-	background-image:url("../images/publications_Bk.jpg");
+	background-image:url("../images/publications_Bk3_blur.jpg");
+	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
     background-attachment: fixed;
@@ -15,9 +16,6 @@ html, body
 .mainContainer
 {
 	background-color:rgba(0, 0, 0, 0.5);
-	margin-left:5%;
-	margin-right:5%;
-	/*min-height:50%;*/
 }
 
 
@@ -27,7 +25,7 @@ select
 	background: rgba(0,0,0,0.3);
 	color:#ecf0f1;
 	height:40px;
-	width:80%;
+	width:100%;
 
 }
 
@@ -40,15 +38,32 @@ select option {
 
 .publicationArea
 {
-	padding-top:5%;
-	margin-left:1%;
+	padding-top: 10px;	
 }
-
+.publicationArea h2{
+	margin-top: 5px;
+	margin-bottom: 2px;
+	font-weight: 600;
+	color: #ecf0f1;
+}
+.publicationArea h3{
+	margin-top: 5px;
+	margin-bottom: 2px;
+	font-weight: 600;
+	color: #ecf0f1;
+}
 .publicationContent
 {
 	padding-bottom:20px;
 	color:#ecf0f1;
 	font-size:20px;
+	font-family: 'Times New Roman', Times, serif;
+	font-weight: 200;
+}
+.publicationContent a {
+	color: #ecf0f1;
+	font-family: 'Times New Roman', Times, serif;
+	text-decoration: underline;
 }
 
 .selectors

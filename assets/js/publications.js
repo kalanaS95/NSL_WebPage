@@ -20,12 +20,31 @@ var thirdDropDownTitle = document.getElementById('thirdText');
 thirdDropDown.style.display = "none";
 thirdDropDownTitle.style.display = "none";
 
+
 getPublications();
+
+//default display
+document.getElementById('publicationArea_').innerHTML = "<h2> Recent Publications </h2>";
+for (var year=0; year < 3; year++){
+	document.getElementById('publicationArea_').innerHTML += "<h3>"+ ((new Date()).getFullYear()-year) +"</h3>";
+	for(var y=0;y<Publicationdata.length;y++)
+	{
+		//console.log(selectedValue+"="+Publicationdata[y]['year']);
+		//if equals to user selected one then show
+		if(Publicationdata[y]['year'] == (new Date()).getFullYear()-year)
+		{
+			//console.log("year loop");
+			document.getElementById('publicationArea_').innerHTML += "<div class=\"publicationContent\" div=\"publicationContent_\">"+Publicationdata[y]['publication']+"</div>";
+		}
+	}
+	
+}
+
+
 //lets see what user choose from the first drop down , and then show things accordingly
 function firstOnchange()
 {
-	//lets clean out the display area first
-	document.getElementById('publicationArea_').innerHTML="";
+
 	var value = document.getElementById('first');
 	var selectedValue = value.options[value.selectedIndex].text;
 	
@@ -72,7 +91,7 @@ function firstOnchange()
 		document.getElementById('secondText').innerHTML="Years:";
 		//now lets add all the years to the drop down
 		document.getElementById('second').innerHTML= "<option value=\"Select a year\">Select a year</option>";
-		for(var loop=0;loop<years.length;loop++)
+		for(var loop=years.length-1;loop>=0;loop--)
 		{
 			//now lets add the options to the second dropdown
 			document.getElementById('second').innerHTML += "<option value=\""+years[loop] +"\">" +years[loop]+ "</option>";
@@ -98,6 +117,8 @@ function secondOnChange()
 	//check if we are sorting by year
 	if(sortedby=="Year")
 	{
+		//lets clean out the display area first
+		document.getElementById('publicationArea_').innerHTML="";
 		//now lets add the publications
 		for(var y=0;y<Publicationdata.length;y++)
 		{
@@ -111,6 +132,8 @@ function secondOnChange()
 		}
 	}else if(sortedby=="Type")
 	{
+		//lets clean out the display area first
+		document.getElementById('publicationArea_').innerHTML="";
 		//now lets add the publications
 		for(var y=0;y<Publicationdata.length;y++)
 		{
