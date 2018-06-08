@@ -1,4 +1,5 @@
-var baseURL = 'http://127.0.0.1:5000/api/';
+var baseURL = 'https://nsl-database.herokuapp.com/api/';
+//var baseURL = 'http://127.0.0.1:5000/api/';
 
 function fullMonth(month)
 {

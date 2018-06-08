@@ -65,7 +65,7 @@ function getNews()
 			//final HTML string
 			var finalHTML = firstPart+animationClass+titleH2+dateTime+contentDescription;
 			if(image1 != null)
-				finalHTML += "<img src=" + " \"data:image/png;base64, " + image1 + " \">";
+				finalHTML += "<img src=" + " \"" + image1 + " \">";
 				
 			//making image description 1
 			if(imgDes1!=null)
@@ -73,7 +73,7 @@ function getNews()
 			//now lets make the second image tag if exists
 			var image2_src=" ";
 			if(image2 != null)
-				finalHTML+= "<img src=" + " \"data:image/png;base64, " + image2 + " \">";	
+				finalHTML+= "<img src=" + " \"" + image2 + " \">";	
 			//making image description 2
 			if(imgDes2!=null)			
 				finalHTML += "<div class=\"imgDiscription\" id=\"imgDiscription\">" +imgDes2 + "</div>";

@@ -31,7 +31,7 @@ function getfacultyMembers()
 			var image_=data['people'][x]['image'];
 			
 			
-			var imagetag = "<img src=" + "\"data:image/png;base64," + image_ + "\"" + "style=\"width:100%\">";
+			var imagetag = "<img src=" + "\"" + image_ + "\"" + "style=\"width:100%\">";
 			var name_ = "<div id=\"name\"><b>"+name+"</b></div>";
 			var description_ = "<div id=\"description\">"+description+"</div>";
 			
@@ -97,7 +97,7 @@ function getMembers()
 			var image_=data['people'][x]['image'];
 			
 			
-			var imagetag = "<img src=" + "\"data:image/png;base64," + image_ + "\"" + "style=\"width:100%\">";
+			var imagetag = "<img src=" + "\"" + image_ + "\"" + "style=\"width:100%\">";
 			var name_ = "<div id=\"name\"><b>"+name+"</b></div>";
 			var description_ = "<div id=\"description\">"+description+"</div>";
 			
@@ -163,7 +163,7 @@ function getAlums()
 			var image_=data['people'][x]['image'];
 			
 			
-			var imagetag = "<img src=" + "\"data:image/png;base64," + image_ + "\"" + "style=\"width:100%\">";
+			var imagetag = "<img src=" + "\"" + image_ + "\"" + "style=\"width:100%\">";
 			var name_ = "<div id=\"name\"><b>"+name+"</b></div>";
 			var description_ = "<div id=\"description\">"+description+"</div>";
 			
