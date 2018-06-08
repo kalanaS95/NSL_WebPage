@@ -903,7 +903,7 @@ a i{
 
 .single_news_right_content{
     margin-bottom: 30px;
-    max-width: 98%;
+    width: 98%;
     float: right;
 }
 .single_news_right_content .single_right_img img{
